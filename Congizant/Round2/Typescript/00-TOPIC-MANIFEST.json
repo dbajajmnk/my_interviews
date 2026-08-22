@@ -1,0 +1,3986 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "TypeScript vs JavaScript",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/01-TypeScript-vs-JavaScript.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "TypeScript compiler",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/02-TypeScript-compiler.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Transpilation",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/03-Transpilation.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Type checking",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/04-Type-checking.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "tsconfig.json",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/05-tsconfig-json.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "target",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/06-target.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "module",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/07-module.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "moduleResolution",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/08-moduleResolution.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "strict mode",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/09-strict-mode.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "noImplicitAny",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/10-noImplicitAny.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "strictNullChecks",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/11-strictNullChecks.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "source maps",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/12-source-maps.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "declaration output awareness",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/13-declaration-output-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "tsc noEmit",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/14-tsc-noEmit.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Runtime is JavaScript",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/15-Runtime-is-JavaScript.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Node and browser execution",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/16-Node-and-browser-execution.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "TypeScript release compatibility",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/17-TypeScript-release-compatibility.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Coding conventions",
+    "file": "M01-Language-Foundations/Day-01-TypeScript-Ecosystem-Compiler-Configuration-Execution-Model/18-Coding-conventions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Static type checking over JavaScript",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/01-Static-type-checking-over-JavaScript.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type inference",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/02-Type-inference.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type annotations",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/03-Type-annotations.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Primitive types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/04-Primitive-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Literal types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/05-Literal-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Union types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/06-Union-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Intersection types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/07-Intersection-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type aliases",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/08-Type-aliases.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Interfaces",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/09-Interfaces.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Structural typing",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/10-Structural-typing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Optional properties",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/11-Optional-properties.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Readonly properties",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/12-Readonly-properties.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "strictNullChecks",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/13-strictNullChecks.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "undefined vs null",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/14-undefined-vs-null.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Control-flow narrowing",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/15-Control-flow-narrowing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "typeof narrowing",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/16-typeof-narrowing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "in operator narrowing",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/17-in-operator-narrowing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Truthiness narrowing",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/18-Truthiness-narrowing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Discriminated unions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/19-Discriminated-unions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "never",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/20-never.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "unknown",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/21-unknown.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "any",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/22-any.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "object vs Object vs {}",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/23-object-vs-Object-vs.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type assertions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Foundations-Inference-Unions-Literals-Narrowing-Null-Safety/24-Type-assertions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function parameter types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/01-Function-parameter-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Return types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/02-Return-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Optional parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/03-Optional-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Default parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/04-Default-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Rest parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/05-Rest-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/06-Function-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Call signatures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/07-Call-signatures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Construct signatures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/08-Construct-signatures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function overloads",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/09-Function-overloads.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Implementation signatures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/10-Implementation-signatures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Generic functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/11-Generic-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Generic type parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/12-Generic-type-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Constraints",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/13-Constraints.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "keyof constraints",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/14-keyof-constraints.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Generic defaults",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/15-Generic-defaults.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Inference in generics",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/16-Inference-in-generics.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Callbacks",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/17-Callbacks.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "this parameter typing",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/18-this-parameter-typing.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "void",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/19-void.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "never returning functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/20-never-returning-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Higher-order functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/21-Higher-order-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Variance awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Overloads-Generics-Constraints-Type-Safe-APIs/22-Variance-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Class fields",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/01-Class-fields.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Constructors",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/02-Constructors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Parameter properties",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/03-Parameter-properties.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "public",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/04-public.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "private",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/05-private.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "protected",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/06-protected.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "readonly",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/07-readonly.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "ECMAScript private fields awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/08-ECMAScript-private-fields-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/09-Interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Implements",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/10-Implements.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Abstract classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/11-Abstract-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Abstract members",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/12-Abstract-members.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/13-Inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Method overriding",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/14-Method-overriding.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/15-Composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Dependency injection by constructor",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/16-Dependency-injection-by-constructor.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Polymorphism",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/17-Polymorphism.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Structural compatibility of classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/18-Structural-compatibility-of-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Static members",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/19-Static-members.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Generic classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/20-Generic-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Getters and setters",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/21-Getters-and-setters.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Immutability",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/22-Immutability.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Domain modeling",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Interfaces-Abstract-Classes-Access-Modifiers-Composition/23-Domain-modeling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-TypeScript/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Function types as Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/12-Function-types-as-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Discriminated unions as State modeling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/13-Discriminated-unions-as-State-modeling.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Events vs Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/14-Events-vs-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-TypeScript-Native-Pattern-Design/15-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Array<T>",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/01-Array-T.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "ReadonlyArray",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/02-ReadonlyArray.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Tuples",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/03-Tuples.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Readonly tuples",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/04-Readonly-tuples.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Map",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/05-Map.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Set",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/06-Set.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "WeakMap",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/07-WeakMap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "WeakSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/08-WeakSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Record",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/09-Record.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Partial",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/10-Partial.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Required",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/11-Required.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Readonly utility type",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/12-Readonly-utility-type.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Pick",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/13-Pick.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Omit",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/14-Omit.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Exclude",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/15-Exclude.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Extract",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/16-Extract.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "NonNullable",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/17-NonNullable.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Parameters",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/18-Parameters.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "ReturnType",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/19-ReturnType.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Awaited",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/20-Awaited.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "keyof",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/21-keyof.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Indexed access types",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/22-Indexed-access-types.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Destructuring",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/23-Destructuring.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Spread",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/24-Spread.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Optional chaining",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/25-Optional-chaining.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Nullish coalescing",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/26-Nullish-coalescing.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Collection complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Tuples-Maps-Sets-Records-Utility-Types/27-Collection-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "JavaScript Error in TypeScript",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/01-JavaScript-Error-in-TypeScript.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "throw",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/02-throw.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "try/catch/finally",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/03-try-catch-finally.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "useUnknownInCatchVariables awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/04-useUnknownInCatchVariables-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "unknown errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/05-unknown-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error type guards",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/06-Error-type-guards.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom error classes",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/07-Custom-error-classes.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error cause",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/08-Error-cause.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "never",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/09-never.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Result/Either-style discriminated unions",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/10-Result-Either-style-discriminated-unions.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Exception vs result trade-offs",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/11-Exception-vs-result-trade-offs.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Promise rejection",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/12-Promise-rejection.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Async error propagation",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/13-Async-error-propagation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/14-Error-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/15-API-error-contracts.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Retryable vs non-retryable",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/16-Retryable-vs-non-retryable.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Logging errors safely",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-unknown-in-catch-Result-Modeling-Async-Failure-Design/17-Logging-errors-safely.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "ES modules",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/01-ES-modules.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "CommonJS awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/02-CommonJS-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "TypeScript module emit",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/03-TypeScript-module-emit.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "moduleResolution modes",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/04-moduleResolution-modes.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "package.json type",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/05-package-json-type.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "exports and types fields awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/06-exports-and-types-fields-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "DefinitelyTyped",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/07-DefinitelyTyped.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "@types packages",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/08-types-packages.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Ambient declarations",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/09-Ambient-declarations.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Declaration files",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/10-Declaration-files.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "npm dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/11-npm-dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "devDependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/12-devDependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "peerDependencies awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/13-peerDependencies-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "SemVer",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/14-SemVer.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Lockfiles",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/15-Lockfiles.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "npm ci",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/16-npm-ci.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Path aliases",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/17-Path-aliases.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "baseUrl awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/18-baseUrl-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Project references",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/19-Project-references.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Composite projects",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/20-Composite-projects.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Incremental builds",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/21-Incremental-builds.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Bundlers awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/22-Bundlers-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Tree shaking",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/23-Tree-shaking.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Source maps",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/24-Source-maps.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Supply-chain risk",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-ESM-CommonJS-npm-tsconfig-Paths-Project-References-Build-Tooling/25-Supply-chain-risk.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Type erasure",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/01-Type-erasure.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Compile-time only types",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/02-Compile-time-only-types.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Emitted JavaScript inspection",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/03-Emitted-JavaScript-inspection.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Enums runtime output",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/04-Enums-runtime-output.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "const enum awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/05-const-enum-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Namespaces awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/06-Namespaces-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Decorators runtime implications awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/07-Decorators-runtime-implications-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "JavaScript execution contexts",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/08-JavaScript-execution-contexts.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Call stack",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/09-Call-stack.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Heap",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/10-Heap.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Garbage collection",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/11-Garbage-collection.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Memory leaks",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/12-Memory-leaks.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Closures and retained memory",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/13-Closures-and-retained-memory.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Node heap awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/14-Node-heap-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Source maps",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/15-Source-maps.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Runtime stack traces",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/16-Runtime-stack-traces.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Engine optimization vs TypeScript",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/17-Engine-optimization-vs-TypeScript.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Type-level complexity vs runtime complexity",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Type-Erasure-JavaScript-Runtime-Memory-GC-Source-Level-Internals/18-Type-level-complexity-vs-runtime-complexity.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "JavaScript event loop from TypeScript",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/01-JavaScript-event-loop-from-TypeScript.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise<T>",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/02-Promise-T.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "async functions",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/03-async-functions.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "await",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/04-await.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.all",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/05-Promise-all.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.allSettled",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/06-Promise-allSettled.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.race",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/07-Promise-race.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.any",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/08-Promise-any.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Awaited utility type",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/09-Awaited-utility-type.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Sequential vs concurrent awaits",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/10-Sequential-vs-concurrent-awaits.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Async error typing limitations",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/11-Async-error-typing-limitations.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Typed async callbacks",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/12-Typed-async-callbacks.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Microtasks awareness",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/13-Microtasks-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Timers",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/14-Timers.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Timeouts",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/15-Timeouts.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "AbortController",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/16-AbortController.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "AbortSignal",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/17-AbortSignal.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Cancellation patterns",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/18-Cancellation-patterns.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Concurrency limits",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/19-Concurrency-limits.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise pools",
+    "file": "M10-Concurrency-Async/Day-11-Promises-async-await-Event-Loop-Typed-Async-Composition/20-Promise-pools.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Node worker_threads awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/01-Node-worker-threads-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Web Workers awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/02-Web-Workers-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Message passing",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/03-Message-passing.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Typed worker messages",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/04-Typed-worker-messages.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Transferable objects awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/05-Transferable-objects-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "SharedArrayBuffer awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/06-SharedArrayBuffer-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomics awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/07-Atomics-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "CPU-bound vs I/O-bound",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/08-CPU-bound-vs-I-O-bound.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Node streams",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/09-Node-streams.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Web Streams awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/10-Web-Streams-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Typed stream transforms",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/11-Typed-stream-transforms.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/12-Backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "HighWaterMark awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/13-HighWaterMark-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Concurrency semaphore",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/14-Concurrency-semaphore.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Queue limits",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/15-Queue-limits.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Cancellation",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/16-Cancellation.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Race conditions in external state",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/17-Race-conditions-in-external-state.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Idempotency at async boundaries",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Safe-Concurrent-Boundaries/18-Idempotency-at-async-boundaries.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Mapped types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/01-Mapped-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Mapping modifiers",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/02-Mapping-modifiers.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Conditional types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/03-Conditional-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Distributive conditional types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/04-Distributive-conditional-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "infer keyword",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/05-infer-keyword.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Template literal types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/06-Template-literal-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Recursive types awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/07-Recursive-types-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "key remapping with as",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/08-key-remapping-with-as.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic utility design",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/09-Generic-utility-design.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "satisfies operator",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/10-satisfies-operator.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "as const",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/11-as-const.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Const assertions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/12-Const-assertions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Const type parameters awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/13-Const-type-parameters-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Branded/opaque type patterns",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/14-Branded-opaque-type-patterns.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Nominal typing patterns",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/15-Nominal-typing-patterns.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Exhaustiveness checking",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/16-Exhaustiveness-checking.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type predicates",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/17-Type-predicates.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Assertion functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/18-Assertion-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Advanced narrowing",
+    "file": "M11-Modern-Advanced-Features/Day-13-Advanced-Types-Mapped-Conditional-Template-Literal-infer-satisfies/19-Advanced-narrowing.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Standard decorators awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/01-Standard-decorators-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Decorator functions",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/02-Decorator-functions.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Decorator runtime behavior awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/03-Decorator-runtime-behavior-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Class decorators",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/04-Class-decorators.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Method decorators",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/05-Method-decorators.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Field/accessor decorators awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/06-Field-accessor-decorators-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Decorator context awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/07-Decorator-context-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Metadata patterns awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/08-Metadata-patterns-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Declaration merging",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/09-Declaration-merging.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Module augmentation",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/10-Module-augmentation.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Global augmentation caution",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/11-Global-augmentation-caution.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Namespaces for legacy interop awareness",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/12-Namespaces-for-legacy-interop-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Declaration file authoring",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/13-Declaration-file-authoring.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Generics in public libraries",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/14-Generics-in-public-libraries.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "API compatibility",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/15-API-compatibility.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Public type design",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/16-Public-type-design.md"
+  },
+  {
+    "day": 14,
+    "module": 11,
+    "topic": "Type-only imports and exports",
+    "file": "M11-Modern-Advanced-Features/Day-14-Decorators-Metadata-Awareness-Declaration-Merging-Library-Authoring/17-Type-only-imports-and-exports.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "JSON.parse returns runtime values",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/01-JSON-parse-returns-runtime-values.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "unknown at trust boundaries",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/02-unknown-at-trust-boundaries.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Runtime schema validation",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/03-Runtime-schema-validation.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Zod awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/04-Zod-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Valibot/io-ts awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/05-Valibot-io-ts-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Type guards",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/06-Type-guards.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Schema inference patterns",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/07-Schema-inference-patterns.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "DTO validation",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/08-DTO-validation.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "fetch typing",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/09-fetch-typing.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Typed HTTP client wrappers",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/10-Typed-HTTP-client-wrappers.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Request/Response types",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/11-Request-Response-types.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "AbortSignal",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/12-AbortSignal.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "URL",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/13-URL.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Serialization limitations",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/14-Serialization-limitations.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Date serialization",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/15-Date-serialization.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "BigInt serialization issue",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/16-BigInt-serialization-issue.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "File I/O in Node",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/17-File-I-O-in-Node.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Buffers",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/18-Buffers.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Streams",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/19-Streams.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "WebSocket typing awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/20-WebSocket-typing-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "SSE awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/21-SSE-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Network timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/22-Network-timeouts.md"
+  },
+  {
+    "day": 15,
+    "module": 12,
+    "topic": "Response limits",
+    "file": "M12-I-O-Serialization-Networking/Day-15-Runtime-Validation-JSON-Fetch-Serialization-Networking/23-Response-limits.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/02-Big-O.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Arrays",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/03-Arrays.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Strings",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/04-Strings.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Map for hashing",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/05-Map-for-hashing.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Set for membership",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/06-Set-for-membership.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/07-Two-pointers.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/08-Sliding-window.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Stack",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/09-Stack.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Queue",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/10-Queue.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Deque implementation choices",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/11-Deque-implementation-choices.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/12-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Generic helper functions",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/13-Generic-helper-functions.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Readonly inputs",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/14-Readonly-inputs.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/15-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Edge cases",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/16-Edge-cases.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Complexity communication",
+    "file": "M13-Coding-DSA/Day-16-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Type-Safe-Coding/17-Complexity-communication.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/01-Recursion.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Stack depth",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/02-Stack-depth.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Generic node types",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/03-Generic-node-types.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Binary trees",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/04-Binary-trees.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Tree traversal",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/05-Tree-traversal.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Heap/Priority queue implementation awareness",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/06-Heap-Priority-queue-implementation-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/07-Top-K.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Graph representation with Map/Set",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/08-Graph-representation-with-Map-Set.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/09-BFS.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/10-DFS.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Visited set",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/11-Visited-set.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/12-Cycle-detection.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/13-Topological-sort.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Generic graph helpers",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/14-Generic-graph-helpers.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Discriminated node types awareness",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/15-Discriminated-node-types-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "V and E complexity",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/16-V-and-E-complexity.md"
+  },
+  {
+    "day": 17,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-17-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Generics-Dependency-Problems/17-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Compiler diagnostics",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/01-Compiler-diagnostics.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "tsc noEmit",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/02-tsc-noEmit.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Strict-mode migration errors",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/03-Strict-mode-migration-errors.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Source maps",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/04-Source-maps.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Browser DevTools",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/05-Browser-DevTools.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Node inspector",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/06-Node-inspector.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Runtime stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/07-Runtime-stack-traces.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Async stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/08-Async-stack-traces.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Type/runtime mismatch diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/09-Type-runtime-mismatch-diagnosis.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Module-resolution diagnostics",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/10-Module-resolution-diagnostics.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "traceResolution awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/11-traceResolution-awareness.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Declaration conflicts",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/12-Declaration-conflicts.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Duplicate types",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/13-Duplicate-types.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Memory profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/14-Memory-profiling.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "CPU profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/15-CPU-profiling.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Event-loop lag",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/16-Event-loop-lag.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Network tracing",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/17-Network-tracing.md"
+  },
+  {
+    "day": 18,
+    "module": 14,
+    "topic": "Production source-map security awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-18-TypeScript-Debugging-Source-Maps-Compiler-Diagnostics-Runtime-Troubleshooting/18-Production-source-map-security-awareness.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Risk-first review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/01-Risk-first-review.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/02-Correctness.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Type soundness at boundaries",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/03-Type-soundness-at-boundaries.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "any usage",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/04-any-usage.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "unknown usage",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/05-unknown-usage.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Unsafe assertions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/06-Unsafe-assertions.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Non-null assertions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/07-Non-null-assertions.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Over-generic APIs",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/08-Over-generic-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Type duplication",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/09-Type-duplication.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Boolean flags",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/10-Boolean-flags.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Discriminated unions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/11-Discriminated-unions.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Mutation",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/12-Mutation.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Async correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/13-Async-correctness.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Promise anti-patterns",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/14-Promise-anti-patterns.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Module boundaries",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/15-Module-boundaries.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Dependency direction",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/16-Dependency-direction.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/17-Refactoring.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/18-Characterization-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Public API compatibility",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/19-Public-API-compatibility.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Technical debt",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/20-Technical-debt.md"
+  },
+  {
+    "day": 19,
+    "module": 15,
+    "topic": "Type-level overengineering",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-19-Code-Review-Refactoring-Type-Safe-Maintainability/21-Type-level-overengineering.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Hallucinated packages",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/02-Hallucinated-packages.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Hallucinated types",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/03-Hallucinated-types.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Hallucinated framework APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/04-Hallucinated-framework-APIs.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Unsound casts",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/05-Unsound-casts.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "any leakage",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/06-any-leakage.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Non-null assertions",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/07-Non-null-assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Fake runtime validation through interfaces",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/08-Fake-runtime-validation-through-interfaces.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Generic overengineering",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/09-Generic-overengineering.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Conditional type mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/10-Conditional-type-mistakes.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Async correctness",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/11-Async-correctness.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Promise handling",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/12-Promise-handling.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Security review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/13-Security-review.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Dependency risk",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/14-Dependency-risk.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/15-Generated-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Generated schemas",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/16-Generated-schemas.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Generated SQL",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/17-Generated-SQL.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Performance review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/18-Performance-review.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/19-Human-approval.md"
+  },
+  {
+    "day": 20,
+    "module": 16,
+    "topic": "Accept repair reject rubric",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-20-AI-Generated-TypeScript-Code-Evaluation-Safe-Engineering-Use/20-Accept-repair-reject-rubric.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Test strategy",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/01-Test-strategy.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Node test runner awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/02-Node-test-runner-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Jest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/03-Jest-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Vitest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/04-Vitest-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/05-Assertions.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Type-safe test builders",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/06-Type-safe-test-builders.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Mocks",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/07-Mocks.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/08-Stubs.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/09-Fakes.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Spies",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/10-Spies.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Mock typing pitfalls",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/11-Mock-typing-pitfalls.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/12-Integration-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Database tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/13-Database-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "HTTP tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/14-HTTP-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Contract tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/15-Contract-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "OpenAPI/schema tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/16-OpenAPI-schema-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Browser E2E",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/17-Browser-E2E.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Playwright awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/18-Playwright-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Compile-time type tests awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/19-Compile-time-type-tests-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "tsd awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/20-tsd-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Coverage limitations",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/21-Coverage-limitations.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Mutation testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/22-Mutation-testing-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Flaky tests",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/23-Flaky-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 17,
+    "topic": "Fake timers awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-21-Testing-Type-Safe-Unit-Integration-Contract-E2E-Testing/24-Fake-timers-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Parameterized SQL",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/01-Parameterized-SQL.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Database drivers",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/02-Database-drivers.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Connection pools",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/03-Connection-pools.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/04-Transactions.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/05-Isolation-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/06-Locking.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/07-Optimistic-concurrency.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "N+1",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/08-N-1.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Batch queries",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/09-Batch-queries.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Repository boundaries",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/10-Repository-boundaries.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Prisma awareness",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/11-Prisma-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Generated ORM types",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/12-Generated-ORM-types.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Sequelize awareness",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/13-Sequelize-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Query builders awareness",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/14-Query-builders-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Database types vs domain types",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/15-Database-types-vs-domain-types.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Nullable columns",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/16-Nullable-columns.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Date/decimal mapping",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/17-Date-decimal-mapping.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Schema migrations",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/18-Schema-migrations.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/19-Long-transactions.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/20-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 22,
+    "module": 18,
+    "topic": "Typed query result validation",
+    "file": "M18-Database-Data-Access/Day-22-SQL-Transactions-Pools-Prisma-ORM-Awareness-Typed-Data-Access/21-Typed-query-result-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Node backend runtime",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/01-Node-backend-runtime.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Express awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/02-Express-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Fastify awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/03-Fastify-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "NestJS awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/04-NestJS-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Controllers",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/05-Controllers.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Services",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/06-Services.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Repositories",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/07-Repositories.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Dependency injection",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/08-Dependency-injection.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Providers awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/09-Providers-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/10-DTOs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Validation pipes awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/11-Validation-pipes-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/12-Runtime-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Configuration typing",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/13-Configuration-typing.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Environment variables",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/14-Environment-variables.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Logging",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/15-Logging.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/16-Request-IDs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Middleware",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/17-Middleware.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Interceptors awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/18-Interceptors-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Guards awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/19-Guards-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Exception filters awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/20-Exception-filters-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Health/readiness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/21-Health-readiness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/22-Graceful-shutdown.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Framework trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/23-Framework-trade-offs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "React TypeScript integration awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Node-Backend-Express-Fastify-NestJS-Awareness-Dependency-Architecture/24-React-TypeScript-integration-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/01-REST-resource-design.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/02-HTTP-methods.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/03-Status-codes.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Typed request DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/04-Typed-request-DTOs.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Typed response DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/05-Typed-response-DTOs.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Runtime schema validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/06-Runtime-schema-validation.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/07-Stable-error-contracts.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/08-OpenAPI-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Generated client awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/09-Generated-client-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/10-Authentication.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/11-Authorization.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/12-Object-level-authorization.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/13-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "JWT awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/14-JWT-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/15-Pagination.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Cursor pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/16-Cursor-pagination-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/17-Idempotency-keys.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/18-Retries-and-side-effects.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "CORS",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/19-CORS.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Cookies vs bearer tokens",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/20-Cookies-vs-bearer-tokens.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "GraphQL awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/21-GraphQL-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Type-safe frontend-backend contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/22-Type-safe-frontend-backend-contracts.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "API versioning",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/23-API-versioning.md"
+  },
+  {
+    "day": 24,
+    "module": 19,
+    "topic": "Backward compatibility",
+    "file": "M19-Backend-Framework-API-Engineering/Day-24-REST-OpenAPI-Auth-Pagination-Idempotency-Full-Stack-Contracts/24-Backward-compatibility.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Compile-time vs runtime performance",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/01-Compile-time-vs-runtime-performance.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Type-checking performance",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/02-Type-checking-performance.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Incremental builds",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/03-Incremental-builds.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Project references",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/04-Project-references.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Deep conditional type cost",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/05-Deep-conditional-type-cost.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Union explosion awareness",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/06-Union-explosion-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Editor language-service performance",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/07-Editor-language-service-performance.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Runtime JavaScript profiling",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/08-Runtime-JavaScript-profiling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Event-loop lag",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/09-Event-loop-lag.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Memory allocation",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/10-Memory-allocation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "GC pressure",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/11-GC-pressure.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Database pool waits",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/12-Database-pool-waits.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Streams",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/13-Streams.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Caching",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/14-Caching.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Memoization trade-offs",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/15-Memoization-trade-offs.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Bundle size",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/16-Bundle-size.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Type-only imports",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/17-Type-only-imports.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Tree shaking",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/18-Tree-shaking.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Code splitting",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/19-Code-splitting.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Source maps",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/20-Source-maps.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Benchmarking pitfalls",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/21-Benchmarking-pitfalls.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/22-Latency-percentiles.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-25-TypeScript-Performance-Type-Checking-Cost-Runtime-Cost-Bundles-Node-Throughput/23-Throughput.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Type safety is not security",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/01-Type-safety-is-not-security.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Runtime validation",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/02-Runtime-validation.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Authentication vs authorization",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/03-Authentication-vs-authorization.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/04-BOLA.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/05-SQL-injection.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "NoSQL injection awareness",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/06-NoSQL-injection-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "XSS",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/07-XSS.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "DOM XSS",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/08-DOM-XSS.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "CSRF",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/09-CSRF.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "CORS",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/10-CORS.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/11-SSRF.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Prototype pollution",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/12-Prototype-pollution.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Unsafe object merging",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/13-Unsafe-object-merging.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Mass assignment",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/14-Mass-assignment.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/15-Path-traversal.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/16-Command-injection.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/17-File-upload-security.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Secrets",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/18-Secrets.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Secure logging",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/19-Secure-logging.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "npm supply-chain risk",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/20-npm-supply-chain-risk.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Dependency confusion awareness",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/21-Dependency-confusion-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "ReDoS",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/22-ReDoS.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "CSP awareness",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/23-CSP-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Unsafe deserialization awareness",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/24-Unsafe-deserialization-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 20,
+    "topic": "Generated code security",
+    "file": "M20-Performance-Security/Day-26-TypeScript-Web-Node-Security-Trust-Boundaries-XSS-SSRF-Prototype-Pollution-Supply-Chain/25-Generated-code-security.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/01-System-design-method.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/02-Requirements.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "NFRs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/03-NFRs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/04-Capacity-estimation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Stateless services",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/05-Stateless-services.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/06-Load-balancing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/07-Caching.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CDN",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/08-CDN.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/09-Rate-limiting.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/10-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/11-Queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/12-Events.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/13-Messaging.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Typed event contracts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/14-Typed-event-contracts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/15-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/16-Idempotent-consumers.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/17-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/18-Modular-monolith.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/19-Microservices.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/20-Service-boundaries.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Shared type package trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/21-Shared-type-package-trade-offs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Consumer-driven contracts awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/22-Consumer-driven-contracts-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Consistency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/23-Consistency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Replication awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/24-Replication-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partitioning awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-System-Design-with-TypeScript-Node-Contracts-Messaging-Caching-Service-Boundaries/25-Partitioning-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Retries",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/03-Retries.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/04-Backoff.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/05-Jitter.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/06-Retry-budgets.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Circuit breaker",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/07-Circuit-breaker.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Bulkhead",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/08-Bulkhead.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/09-Backpressure.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/10-Load-shedding.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/11-Idempotency.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/12-At-least-once-delivery.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/13-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/14-Outbox.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/15-Saga.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/16-Compensation.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/17-Event-ordering.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/18-Dead-letter-queues.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Schema evolution",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/19-Schema-evolution.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Backward-compatible event types",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/20-Backward-compatible-event-types.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Runtime validation of messages",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/21-Runtime-validation-of-messages.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Distributed tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/22-Distributed-tracing.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/23-Correlation-IDs.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/24-CAP-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-28-Distributed-Systems-Resilience-Sagas-Versioned-Contracts-Observability/25-Graceful-degradation.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "TypeScript build pipeline",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/01-TypeScript-build-pipeline.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "tsc noEmit in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/02-tsc-noEmit-in-CI.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Build artifact strategy",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/03-Build-artifact-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Source maps",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/04-Source-maps.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Node production runtime",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/05-Node-production-runtime.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Process signals",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/06-Process-signals.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Graceful shutdown",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/07-Graceful-shutdown.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Environment configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/08-Environment-configuration.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Runtime config validation",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/09-Runtime-config-validation.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/10-Secrets.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/11-Docker.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Container limits",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/12-Container-limits.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/13-Kubernetes-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/14-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Rolling deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/15-Rolling-deployment.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Canary",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/16-Canary.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Blue-green awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/17-Blue-green-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Feature flags",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/18-Feature-flags.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Backward-compatible migrations",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/19-Backward-compatible-migrations.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/20-CI-CD.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Immutable artifacts",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/21-Immutable-artifacts.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/22-Logs.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/23-Metrics.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Traces",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/24-Traces.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "SLI/SLO/SLA",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/25-SLI-SLO-SLA.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/26-Alerts.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/27-Runbooks.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/28-RPO-RTO.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Backup/restore",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/29-Backup-restore.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "JavaScript-to-TypeScript migration",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/30-JavaScript-to-TypeScript-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Strict-mode migration",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/31-Strict-mode-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "any reduction strategy",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/32-any-reduction-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Legacy declaration issues",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/33-Legacy-declaration-issues.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Monorepo architecture",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/34-Monorepo-architecture.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Project references",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/35-Project-references.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Shared type package strategy",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/36-Shared-type-package-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "API contract strategy",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/37-API-contract-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Runtime validation strategy",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/38-Runtime-validation-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Framework migration decision",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/39-Framework-migration-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "NestJS adoption decision",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/40-NestJS-adoption-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Frontend-backend type sharing",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/41-Frontend-backend-type-sharing.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Performance incident",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/42-Performance-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Security incident",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/43-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Database bottleneck",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/44-Database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Event contract migration",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/45-Event-contract-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "AI integration",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/46-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Technical debt",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/47-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Client trade-offs",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/48-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Architecture review",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/49-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 22,
+    "topic": "Capstone challenge",
+    "file": "M22-Production-Engineering-Deployment/Day-29-Production-Engineering-Senior-Architect-Scenarios-Capstone-Preparation/50-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Type inference questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/02-Type-inference-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Narrowing questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/03-Narrowing-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Generic questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/04-Generic-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Conditional type questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/05-Conditional-type-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Type erasure questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/06-Type-erasure-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Runtime validation questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/07-Runtime-validation-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Async questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/08-Async-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/09-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/10-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/11-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Backend/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/12-Backend-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/13-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/14-Security-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/15-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/16-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/17-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/18-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/19-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-TypeScript-Interview-Readiness-Types-Runtime-Coding-Review-API-Design/20-Final-readiness-scoring.md"
+  }
+]
