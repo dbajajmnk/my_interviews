@@ -1,0 +1,17 @@
+Input: "aabbcde"
+Output: "c"
+
+iterate 
+for character 
+is Duplicate
+
+What is different between
+Django
+Fast API
+Flask
+Decoration in Python and how ?
+Dependency injection in python
+What is iterator, generator and ?
+SQL
+Improve the performance
+

@@ -1,0 +1,2090 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Java platform architecture",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/01-Java-platform-architecture.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "JDK vs JRE vs JVM",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/02-JDK-vs-JRE-vs-JVM.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "compile → bytecode → execute",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/03-compile-bytecode-execute.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "class structure",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/04-class-structure.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "main method",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/05-main-method.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "variables/constants",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/06-variables-constants.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "operators",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/07-operators.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "control flow",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/08-control-flow.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "coding conventions",
+    "file": "M01-Language-Foundations/Day-01-Java-Ecosystem-JVM-JDK-JRE-Syntax-Execution/09-coding-conventions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "primitive vs reference semantics",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/01-primitive-vs-reference-semantics.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "stack variable vs object reference mental model",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/02-stack-variable-vs-object-reference-mental-model.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "String immutability",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/03-String-immutability.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "String pool",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/04-String-pool.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "wrappers/autoboxing",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/05-wrappers-autoboxing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "equals/hashCode",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/06-equals-hashCode.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "generics basics",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/07-generics-basics.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "type inference",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/08-type-inference.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "nullability awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Java-Type-System-Values-References-Strings-Wrappers-Generics-Foundations/09-nullability-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "method signature",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/01-method-signature.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "overloading",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/02-overloading.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "parameter passing",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/03-parameter-passing.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "scope/lifetime",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/04-scope-lifetime.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "varargs",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/05-varargs.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "static vs instance",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/06-static-vs-instance.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "lambda expressions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/07-lambda-expressions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "functional interfaces",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/08-functional-interfaces.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "method references",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/09-method-references.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "effectively final capture",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Methods-Scope-Parameters-Varargs-Lambdas-Functional-Interfaces/10-effectively-final-capture.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "classes/objects",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/01-classes-objects.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "encapsulation",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/02-encapsulation.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "constructors",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/03-constructors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/04-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "method overriding",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/05-method-overriding.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "polymorphism",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/06-polymorphism.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "abstract classes",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/07-abstract-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/08-interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/09-composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "immutability",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/10-immutability.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "records awareness",
+    "file": "M04-OOP-Design-Model/Day-04-OOP-Encapsulation-Inheritance-Polymorphism-Abstraction-Composition/11-records-awareness.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "cohesion/coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/09-cohesion-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/10-dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/11-composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-Cohesion-Coupling-GoF-Creational-Structural-Patterns/23-Proxy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/12-pattern-combinations.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "anti-patterns",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Pattern-Trade-Off-Defense/13-anti-patterns.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "List/Set/Map/Queue",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/01-List-Set-Map-Queue.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "ArrayList/LinkedList",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/02-ArrayList-LinkedList.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "HashMap internals",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/03-HashMap-internals.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "HashSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/04-HashSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "TreeMap/TreeSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/05-TreeMap-TreeSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "PriorityQueue",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/06-PriorityQueue.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Deque",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/07-Deque.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "generics/wildcards",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/08-generics-wildcards.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Comparable/Comparator",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/09-Comparable-Comparator.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "streams",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/10-streams.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Generics-Comparable-Comparator-Streams-Complexity/11-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "checked/unchecked",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/01-checked-unchecked.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "exception hierarchy",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/02-exception-hierarchy.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "throw/throws",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/03-throw-throws.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "try/catch/finally",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/04-try-catch-finally.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "try-with-resources",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/05-try-with-resources.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "custom exceptions",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/06-custom-exceptions.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "exception translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/07-exception-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "cause chains",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/08-cause-chains.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/09-error-contracts.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "logging",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Error-Handling-Resource-Safety-API-Failure-Design/10-logging.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "packages",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/01-packages.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "access control",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/02-access-control.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "classpath",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/03-classpath.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "module-path",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/04-module-path.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "JPMS awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/05-JPMS-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "JAR/WAR",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/06-JAR-WAR.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Maven lifecycle",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/07-Maven-lifecycle.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Gradle concepts",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/08-Gradle-concepts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "dependency scopes",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/09-dependency-scopes.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "transitive dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/10-transitive-dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "version conflicts",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/11-version-conflicts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "build reproducibility",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Modules-Classpath-Maven-Gradle-Dependency-Management/12-build-reproducibility.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "class loading",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/01-class-loading.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "heap/stack/metaspace",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/02-heap-stack-metaspace.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "object allocation",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/03-object-allocation.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "GC roots",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/04-GC-roots.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "generational GC",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/05-generational-GC.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "JIT",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/06-JIT.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "escape analysis awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/07-escape-analysis-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "reference types",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/08-reference-types.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "memory leaks",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/09-memory-leaks.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "OOM vs stack overflow",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JVM-Runtime-Class-Loading-Memory-GC-JIT-Java-Internals/10-OOM-vs-stack-overflow.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Thread lifecycle",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/01-Thread-lifecycle.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "race conditions",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/02-race-conditions.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "synchronized",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/03-synchronized.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "volatile",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/04-volatile.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "happens-before",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/05-happens-before.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "atomic classes",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/06-atomic-classes.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "locks",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/07-locks.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "deadlock",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/08-deadlock.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "ConcurrentHashMap",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/09-ConcurrentHashMap.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "BlockingQueue",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/10-BlockingQueue.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "thread safety",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Synchronization-Java-Memory-Model-Concurrent-Collections/11-thread-safety.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "ExecutorService",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/01-ExecutorService.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "thread pools",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/02-thread-pools.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Future",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/03-Future.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "CompletableFuture",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/04-CompletableFuture.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "composition",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/05-composition.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "timeouts",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/06-timeouts.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "exception handling",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/07-exception-handling.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "virtual threads",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/08-virtual-threads.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "structured concurrency awareness",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/09-structured-concurrency-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "backpressure",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/10-backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "CPU vs I/O",
+    "file": "M10-Concurrency-Async/Day-12-Executors-CompletableFuture-Virtual-Threads-Async-Design/11-CPU-vs-I-O.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "records",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/01-records.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "sealed classes",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/02-sealed-classes.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "pattern matching",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/03-pattern-matching.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "switch expressions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/04-switch-expressions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "text blocks",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/05-text-blocks.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "var",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/06-var.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Optional",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/07-Optional.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "streams",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/08-streams.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "immutability",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/09-immutability.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "modern API design",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-Java-Records-Sealed-Types-Pattern-Matching-Optional-Stream-Design/10-modern-API-design.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "InputStream/OutputStream",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/01-InputStream-OutputStream.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Reader/Writer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/02-Reader-Writer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Files/Path",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/03-Files-Path.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "buffers",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/04-buffers.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "NIO awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/05-NIO-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "serialization formats",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/06-serialization-formats.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Java serialization risks",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/07-Java-serialization-risks.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "HTTP client",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/08-HTTP-client.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/09-timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "resource handling",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/10-resource-handling.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "blocking vs non-blocking awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-NIO-2-Serialization-HTTP-Clients-Networking-Fundamentals/11-blocking-vs-non-blocking-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "arrays",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/03-arrays.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "strings",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/04-strings.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "hashing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/05-hashing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/06-two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/07-sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "stack",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/08-stack.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "queue/deque",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/09-queue-deque.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "brute force → optimized",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/10-brute-force-optimized.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/01-recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "binary trees",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/02-binary-trees.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BST awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/03-BST-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "heap/PriorityQueue",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/04-heap-PriorityQueue.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/05-graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/06-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/07-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "visited",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/08-visited.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "topological sort awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/09-topological-sort-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "complexity",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/10-complexity.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "senior coding communication",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Senior-Coding/11-senior-coding-communication.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "debug workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/01-debug-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/02-stack-traces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "logging",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/03-logging.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "breakpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/04-breakpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "thread dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/05-thread-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "heap dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/06-heap-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "JFR/JMC awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/07-JFR-JMC-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "jcmd/jstack/jmap awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/08-jcmd-jstack-jmap-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "GC logs",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/09-GC-logs.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/10-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "production evidence",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Java-Debugging-Troubleshooting-Profiling-Production-Diagnostics/11-production-evidence.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "review order",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/01-review-order.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/02-correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "security",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/03-security.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "concurrency",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/04-concurrency.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "performance",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/05-performance.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "API design",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/06-API-design.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "code smells",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/07-code-smells.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/08-refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/09-naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "immutability",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/10-immutability.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "legacy code",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/11-legacy-code.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "technical debt",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-Java-Maintainability/12-technical-debt.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/01-AI-code-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "correctness",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/02-correctness.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "API validity",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/03-API-validity.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "security",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/04-security.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "concurrency",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/05-concurrency.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "performance",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/06-performance.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/07-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "hallucinated dependencies",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/08-hallucinated-dependencies.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "generated SQL",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/09-generated-SQL.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "generated config",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/10-generated-config.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "human oversight",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Java-Code-Evaluation-Safe-Engineering-Use/11-human-oversight.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "test pyramid",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/01-test-pyramid.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "JUnit 5",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/02-JUnit-5.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/03-assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "parameterized tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/04-parameterized-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mockito",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/05-Mockito.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "fakes vs mocks",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/06-fakes-vs-mocks.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/07-integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Testcontainers awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/08-Testcontainers-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "contract tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/09-contract-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "E2E",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/10-E2E.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "coverage limits",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/11-coverage-limits.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "mutation testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Mockito-Integration-Contract-Testcontainers-Quality-Strategy/12-mutation-testing-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "JDBC",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/01-JDBC.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "prepared statements",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/02-prepared-statements.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "connection pooling",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/03-connection-pooling.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "transactions",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/04-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "JPA entities",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/05-JPA-entities.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "persistence context",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/06-persistence-context.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "lazy/eager",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/07-lazy-eager.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/08-N-1.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "fetch join",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/09-fetch-join.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "locking",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/10-locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "optimistic version",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/11-optimistic-version.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "schema migration",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/12-schema-migration.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "repository boundaries",
+    "file": "M18-Database-Data-Access/Day-21-JDBC-SQL-JPA-Hibernate-Transactions-ORM-Pitfalls-Data-Access/13-repository-boundaries.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "IoC/DI",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/01-IoC-DI.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Spring container",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/02-Spring-container.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "constructor injection",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/03-constructor-injection.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "bean scopes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/04-bean-scopes.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "lifecycle",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/05-lifecycle.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/06-configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Spring Boot auto-configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/07-Spring-Boot-auto-configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "profiles",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/08-profiles.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "configuration properties",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/09-configuration-properties.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "layering",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/10-layering.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "actuator awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Spring-Core-Dependency-Injection-Bean-Lifecycle-Spring-Boot-Architecture/11-actuator-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST controllers",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/01-REST-controllers.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/02-DTOs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/03-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "error handling",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/04-error-handling.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/05-status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/06-pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "idempotency",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/07-idempotency.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "transactions",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/08-transactions.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Spring Security awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/09-Spring-Security-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP clients",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/10-HTTP-clients.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "resilience",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/11-resilience.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-Spring-REST-APIs-Validation-Transactions-Security-Awareness-Service-Integration/12-OpenAPI.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "performance methodology",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/01-performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "JMH awareness",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/02-JMH-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "JFR/profiling",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/03-JFR-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "allocation",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/04-allocation.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "GC",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/05-GC.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "thread pools",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/06-thread-pools.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "virtual threads",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/07-virtual-threads.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "DB pool",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/08-DB-pool.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "caching",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/09-caching.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "N+1",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/10-N-1.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "latency percentiles",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/11-latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "capacity",
+    "file": "M20-Performance-Security/Day-24-Java-Performance-Profiling-GC-Pools-Caching-SQL-Throughput-Tail-Latency/12-capacity.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "threat modeling",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/01-threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "authentication",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/02-authentication.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "authorization",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/03-authorization.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Spring Security concepts",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/04-Spring-Security-concepts.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "OAuth2/OIDC/JWT awareness",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/05-OAuth2-OIDC-JWT-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/06-BOLA.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/07-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "XSS/CSRF/CORS",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/08-XSS-CSRF-CORS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/09-SSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "secrets",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/10-secrets.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "dependency risk",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/11-dependency-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "secure logging",
+    "file": "M20-Performance-Security/Day-25-Java-Application-Security-OWASP-Spring-Security-Secrets-JWT-OAuth2-Secure-Coding/12-secure-logging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/01-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "capacity",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/02-capacity.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "stateless services",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/03-stateless-services.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/04-load-balancing.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "cache",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/05-cache.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "database",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/06-database.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/07-messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "consistency",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/08-consistency.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/09-microservices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/10-modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/11-service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "distributed transactions",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Java-Scalability-Caching-Messaging-Consistency-Microservices/12-distributed-transactions.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/01-timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "retries",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/02-retries.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "circuit breaker",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/03-circuit-breaker.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "bulkhead",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/04-bulkhead.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/05-backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/06-idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/07-outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/08-saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/09-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "replication",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/10-replication.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "partition",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/11-partition.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/12-tracing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "failure scenarios",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Resilience-Idempotency-Outbox-Saga-Observability-Failure-Modes/13-failure-scenarios.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "containerization",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/01-containerization.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "JVM in containers",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/02-JVM-in-containers.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/03-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes concepts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/04-Kubernetes-concepts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "health/readiness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/05-health-readiness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "configuration/secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/06-configuration-secrets.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/07-CI-CD.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "rolling/canary",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/08-rolling-canary.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "logs/metrics/traces",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/09-logs-metrics-traces.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "SLOs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/10-SLOs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "rollback",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/11-rollback.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "DR awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Docker-Kubernetes-Awareness-CI-CD-Observability-Release-Safety/12-DR-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "legacy modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/01-legacy-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "performance incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/02-performance-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/03-security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "API design",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/04-API-design.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "database bottleneck",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/05-database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "concurrency issue",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/06-concurrency-issue.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "microservice decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/07-microservice-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/08-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/09-client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "capstone",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Java-Architect-Scenarios-Capstone-Challenge/10-capstone.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/01-rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "output prediction",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/02-output-prediction.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "coding",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/03-coding.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "debugging",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/04-debugging.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "code review",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/05-code-review.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Spring/API",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/06-Spring-API.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "SQL/JPA",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/07-SQL-JPA.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "concurrency",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/08-concurrency.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "JVM",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/09-JVM.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "security",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/10-security.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "system design",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/11-system-design.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/12-architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "final scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Java-Interview-Readiness-Rapid-Fire-Coding-Review-Design-Follow-Up-Survival/13-final-scoring.md"
+  }
+]
