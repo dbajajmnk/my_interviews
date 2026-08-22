@@ -1,0 +1,3302 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "JavaScript vs ECMAScript",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/01-JavaScript-vs-ECMAScript.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Browser vs Node.js runtime",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/02-Browser-vs-Node-js-runtime.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "JavaScript engines",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/03-JavaScript-engines.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Source parsing and execution",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/04-Source-parsing-and-execution.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Statements and expressions",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/05-Statements-and-expressions.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Variables with let/const/var",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/06-Variables-with-let-const-var.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Operators",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/07-Operators.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Control flow",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/08-Control-flow.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Strict mode",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/09-Strict-mode.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Automatic semicolon insertion awareness",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/10-Automatic-semicolon-insertion-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Truthy and falsy values",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/11-Truthy-and-falsy-values.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Coding conventions",
+    "file": "M01-Language-Foundations/Day-01-JavaScript-Ecosystem-Runtimes-Syntax-Strict-Mode-Execution/12-Coding-conventions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Primitive types",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/01-Primitive-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "undefined vs null",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/02-undefined-vs-null.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Number and IEEE-754",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/03-Number-and-IEEE-754.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "BigInt",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/04-BigInt.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "String",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/05-String.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Boolean",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/06-Boolean.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Symbol",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/07-Symbol.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Objects and references",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/08-Objects-and-references.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Dynamic typing",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/09-Dynamic-typing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type coercion",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/10-Type-coercion.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Abstract equality vs strict equality",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/11-Abstract-equality-vs-strict-equality.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Object.is",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/12-Object-is.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "NaN",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/13-NaN.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Wrapper objects",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/14-Wrapper-objects.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "typeof quirks",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/15-typeof-quirks.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Property keys",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/16-Property-keys.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Immutability awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-JavaScript-Types-Coercion-Equality-Objects-Value-Semantics/17-Immutability-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function declarations",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/01-Function-declarations.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function expressions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/02-Function-expressions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Arrow functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/03-Arrow-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "First-class functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/04-First-class-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Lexical scope",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/05-Lexical-scope.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Closures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/06-Closures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Hoisting",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/07-Hoisting.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Temporal dead zone",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/08-Temporal-dead-zone.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "var function scope",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/09-var-function-scope.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "let/const block scope",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/10-let-const-block-scope.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "this binding rules",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/11-this-binding-rules.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "call",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/12-call.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "apply",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/13-apply.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "bind",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/14-bind.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Arrow this",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/15-Arrow-this.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Rest parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/16-Rest-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Spread syntax",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/17-Spread-syntax.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Default parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/18-Default-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Higher-order functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/19-Higher-order-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "IIFE awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Closures-Hoisting-this-Call-Apply-Bind-Arrow-Functions/20-IIFE-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Object literals",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/01-Object-literals.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Prototype chain",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/02-Prototype-chain.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Object.create",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/03-Object-create.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Constructor functions awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/04-Constructor-functions-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "class syntax",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/05-class-syntax.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "extends and super",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/06-extends-and-super.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Method overriding",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/07-Method-overriding.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/08-Composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Private fields",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/09-Private-fields.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Static fields and methods",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/10-Static-fields-and-methods.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Getters and setters",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/11-Getters-and-setters.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Property descriptors",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/12-Property-descriptors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Enumerable/configurable/writable",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/13-Enumerable-configurable-writable.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Object.freeze awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/14-Object-freeze-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Encapsulation",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/15-Encapsulation.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Polymorphism in JavaScript",
+    "file": "M04-OOP-Design-Model/Day-04-Objects-Prototypes-Classes-Inheritance-Composition-Property-Model/16-Polymorphism-in-JavaScript.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-JavaScript/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Functions as Strategy and Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/12-Functions-as-Strategy-and-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Events vs Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/13-Events-vs-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-JavaScript-Native-Pattern-Design/14-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Array",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/01-Array.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Array mutating vs non-mutating methods",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/02-Array-mutating-vs-non-mutating-methods.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Map",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/03-Map.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Set",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/04-Set.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "WeakMap",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/05-WeakMap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "WeakSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/06-WeakSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Object vs Map",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/07-Object-vs-Map.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Iterables",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/08-Iterables.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Iterator protocol",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/09-Iterator-protocol.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "for...of",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/10-for-of.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "for...in",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/11-for-in.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Array.from",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/12-Array-from.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "TypedArray awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/13-TypedArray-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Date awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/14-Date-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Intl awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/15-Intl-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "RegExp awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/16-RegExp-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Destructuring",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/17-Destructuring.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Optional chaining",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/18-Optional-chaining.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Nullish coalescing",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/19-Nullish-coalescing.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Collection complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Maps-Sets-Weak-Collections-Iterables-Standard-Library/20-Collection-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error object",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/01-Error-object.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Built-in error types",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/02-Built-in-error-types.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "throw",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/03-throw.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "try/catch/finally",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/04-try-catch-finally.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/05-Custom-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error cause",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/06-Error-cause.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Stack traces",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/07-Stack-traces.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Promise rejection",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/08-Promise-rejection.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Unhandled rejection awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/09-Unhandled-rejection-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Async/await error handling",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/10-Async-await-error-handling.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/11-Error-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error boundaries between layers",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/12-Error-boundaries-between-layers.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/13-API-error-contracts.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Logging errors safely",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/14-Logging-errors-safely.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Retryable vs non-retryable errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Exceptions-Async-Failures-Resource-Safe-Error-Design/15-Retryable-vs-non-retryable-errors.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "ES modules",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/01-ES-modules.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "import and export",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/02-import-and-export.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "CommonJS awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/03-CommonJS-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "ESM vs CommonJS interoperability",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/04-ESM-vs-CommonJS-interoperability.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "package.json",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/05-package-json.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "package type",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/06-package-type.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "exports field awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/07-exports-field-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "npm scripts",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/08-npm-scripts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Semantic versioning",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/09-Semantic-versioning.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependencies vs devDependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/10-Dependencies-vs-devDependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Peer dependencies awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/11-Peer-dependencies-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Lockfiles",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/12-Lockfiles.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "npm install vs npm ci",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/13-npm-install-vs-npm-ci.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Package resolution",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/14-Package-resolution.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Bundlers awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/15-Bundlers-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Tree shaking",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/16-Tree-shaking.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Code splitting awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/17-Code-splitting-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Source maps",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/18-Source-maps.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependency supply-chain risk",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-ES-Modules-CommonJS-npm-package-json-SemVer-Lockfiles-Build-Tooling/19-Dependency-supply-chain-risk.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Execution contexts",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/01-Execution-contexts.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Call stack",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/02-Call-stack.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Lexical environments",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/03-Lexical-environments.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Heap",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/04-Heap.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Reachability and garbage collection",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/05-Reachability-and-garbage-collection.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Generational GC awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/06-Generational-GC-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Memory leaks",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/07-Memory-leaks.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Closures and retained memory",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/08-Closures-and-retained-memory.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Detached DOM awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/09-Detached-DOM-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Hidden classes/shapes awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/10-Hidden-classes-shapes-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Inline caches awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/11-Inline-caches-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "JIT optimization awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/12-JIT-optimization-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Deoptimization awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/13-Deoptimization-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Stack overflow",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/14-Stack-overflow.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Out of memory",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/15-Out-of-memory.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Engine implementation vs language guarantee",
+    "file": "M09-Runtime-Memory-Internals/Day-10-JavaScript-Engine-Internals-Call-Stack-Heap-GC-Optimization-Awareness/16-Engine-implementation-vs-language-guarantee.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Single-threaded JavaScript execution model",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/01-Single-threaded-JavaScript-execution-model.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Host concurrency",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/02-Host-concurrency.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Event loop",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/03-Event-loop.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Task/macrotask awareness",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/04-Task-macrotask-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Microtask queue",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/05-Microtask-queue.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise states",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/06-Promise-states.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise chaining",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/07-Promise-chaining.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.all",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/08-Promise-all.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.allSettled",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/09-Promise-allSettled.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.race",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/10-Promise-race.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Promise.any",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/11-Promise-any.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "async/await",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/12-async-await.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Async error propagation",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/13-Async-error-propagation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Sequential vs concurrent await",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/14-Sequential-vs-concurrent-await.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Starvation awareness",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/15-Starvation-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Timers",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/16-Timers.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "queueMicrotask",
+    "file": "M10-Concurrency-Async/Day-11-Event-Loop-Tasks-Microtasks-Promises-async-await/17-queueMicrotask.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Web Workers awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/01-Web-Workers-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Node.js worker_threads",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/02-Node-js-worker-threads.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Child processes awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/03-Child-processes-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "CPU-bound vs I/O-bound",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/04-CPU-bound-vs-I-O-bound.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Streams",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/05-Streams.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Readable and Writable streams",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/06-Readable-and-Writable-streams.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/07-Backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "HighWaterMark awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/08-HighWaterMark-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "AbortController",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/09-AbortController.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Cancellation",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/10-Cancellation.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Timeout patterns",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/11-Timeout-patterns.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Concurrency limits",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/12-Concurrency-limits.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Semaphore pattern",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/13-Semaphore-pattern.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Promise pools",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/14-Promise-pools.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Race conditions with shared external state",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/15-Race-conditions-with-shared-external-state.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomics and SharedArrayBuffer awareness",
+    "file": "M10-Concurrency-Async/Day-12-Workers-Streams-Backpressure-Cancellation-Concurrency-Control/16-Atomics-and-SharedArrayBuffer-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generator functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/01-Generator-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "yield",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/02-yield.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Custom iterables",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/03-Custom-iterables.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Symbol.iterator",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/04-Symbol-iterator.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Well-known symbols awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/05-Well-known-symbols-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Proxy",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/06-Proxy.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Reflect",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/07-Reflect.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Meta-programming trade-offs",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/08-Meta-programming-trade-offs.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Property access traps",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/09-Property-access-traps.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Optional chaining",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/10-Optional-chaining.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Nullish coalescing",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/11-Nullish-coalescing.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Logical assignment operators",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/12-Logical-assignment-operators.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Private class fields",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/13-Private-class-fields.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Static initialization blocks awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/14-Static-initialization-blocks-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Top-level await awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/15-Top-level-await-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Structured cloning awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generators-Iterators-Proxy-Reflect-Symbols-Advanced-Language-Features/16-Structured-cloning-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON.stringify",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/01-JSON-stringify.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON.parse",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/02-JSON-parse.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON limitations",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/03-JSON-limitations.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Custom serialization awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/04-Custom-serialization-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fetch",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/05-fetch.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Request and Response",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/06-Request-and-Response.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "HTTP status handling",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/07-HTTP-status-handling.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Headers",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/08-Headers.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "AbortSignal with fetch",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/09-AbortSignal-with-fetch.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "URL and URLSearchParams",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/10-URL-and-URLSearchParams.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Node Buffer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/11-Node-Buffer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "TextEncoder/TextDecoder awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/12-TextEncoder-TextDecoder-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Node fs/promises",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/13-Node-fs-promises.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "File streams",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/14-File-streams.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Large file processing",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/15-Large-file-processing.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "WebSocket awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/16-WebSocket-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Server-Sent Events awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/17-Server-Sent-Events-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Character encoding",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/18-Character-encoding.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Network timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/19-Network-timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Response size limits",
+    "file": "M12-I-O-Serialization-Networking/Day-14-JSON-Fetch-URL-Buffers-File-I-O-Streams-Networking/20-Response-size-limits.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Arrays",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/03-Arrays.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Strings",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/04-Strings.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Hashing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/05-Hashing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Map for lookup",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/06-Map-for-lookup.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Set for membership",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/07-Set-for-membership.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/08-Two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/09-Sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Stack",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/10-Stack.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Queue",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/11-Queue.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Deque implementation choices",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/12-Deque-implementation-choices.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/13-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/14-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Edge-case testing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stack-Queue/15-Edge-case-testing.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/01-Recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Call stack depth",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/02-Call-stack-depth.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary trees",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/03-Binary-trees.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Tree traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/04-Tree-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary search tree awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/05-Binary-search-tree-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Heap/Priority Queue implementation awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/06-Heap-Priority-Queue-implementation-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/07-Top-K.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/08-Graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/09-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/10-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Visited set",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/11-Visited-set.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/12-Cycle-detection.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/13-Topological-sort.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Complexity with V and E",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/14-Complexity-with-V-and-E.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/15-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Debugging workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/01-Debugging-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Browser DevTools",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/02-Browser-DevTools.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Node inspector",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/03-Node-inspector.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Breakpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/04-Breakpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Conditional breakpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/05-Conditional-breakpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Async stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/06-Async-stack-traces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Source maps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/07-Source-maps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Console logging discipline",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/08-Console-logging-discipline.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Performance profiles",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/09-Performance-profiles.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "CPU profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/10-CPU-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Heap snapshots",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/11-Heap-snapshots.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Allocation profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/12-Allocation-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Event-loop lag",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/13-Event-loop-lag.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Memory leak diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/14-Memory-leak-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Network panel",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/15-Network-panel.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Unhandled promises",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/16-Unhandled-promises.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "One-process anomaly diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-JavaScript-Debugging-Browser-DevTools-Node-Inspector-Memory-CPU-Diagnostics/17-One-process-anomaly-diagnosis.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Risk-first code review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/01-Risk-first-code-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/02-Correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Security",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/03-Security.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Async correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/04-Async-correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Mutation and side effects",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/05-Mutation-and-side-effects.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "API contracts",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/06-API-contracts.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Code smells",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/07-Code-smells.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Long functions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/08-Long-functions.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Boolean flags",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/09-Boolean-flags.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Callback nesting",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/10-Callback-nesting.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Promise anti-patterns",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/11-Promise-anti-patterns.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/12-Refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/13-Characterization-tests.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/14-Naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Module boundaries",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/15-Module-boundaries.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Dependency direction",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/16-Dependency-direction.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Technical debt prioritization",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/17-Technical-debt-prioritization.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Backward compatibility",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Clean-JavaScript-Maintainability/18-Backward-compatibility.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Requirement verification",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/02-Requirement-verification.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Syntax/runtime compatibility",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/03-Syntax-runtime-compatibility.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated packages",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/04-Hallucinated-packages.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated browser/Node APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/05-Hallucinated-browser-Node-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Async correctness",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/06-Async-correctness.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Promise handling",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/07-Promise-handling.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Security review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/08-Security-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Prototype pollution risk",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/09-Prototype-pollution-risk.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "XSS risk",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/10-XSS-risk.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Dependency risk",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/11-Dependency-risk.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/12-Generated-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated regex risk",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/13-Generated-regex-risk.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated SQL/shell/config",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/14-Generated-SQL-shell-config.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Performance review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/15-Performance-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-JavaScript-Code-Evaluation-Safe-Engineering-Use/16-Human-approval.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test strategy",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/01-Test-strategy.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Unit tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/02-Unit-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Node built-in test runner awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/03-Node-built-in-test-runner-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Jest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/04-Jest-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Vitest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/05-Vitest-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/06-Assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Parameterized/table tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/07-Parameterized-table-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mocks",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/08-Mocks.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/09-Stubs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/10-Fakes.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Spies",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/11-Spies.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/12-Integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "HTTP/API tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/13-HTTP-API-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Contract tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/14-Contract-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Browser E2E",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/15-Browser-E2E.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Playwright awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/16-Playwright-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test isolation",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/17-Test-isolation.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fake timers awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/18-Fake-timers-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coverage limitations",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/19-Coverage-limitations.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mutation testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/20-Mutation-testing-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Flaky tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Node-Test-Runner-Jest-Vitest-Awareness-Mocks-Integration-Contract-E2E/21-Flaky-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SQL from JavaScript",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/01-SQL-from-JavaScript.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Parameterized queries",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/02-Parameterized-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Database drivers",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/03-Database-drivers.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection pools",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/04-Connection-pools.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/05-Transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/06-Isolation-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/07-Locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/08-Optimistic-concurrency.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/09-N-1.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Batch queries",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/10-Batch-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "ORM awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/11-ORM-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Prisma awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/12-Prisma-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Sequelize awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/13-Sequelize-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Query builder awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/14-Query-builder-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Repository boundary",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/15-Repository-boundary.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Schema migrations",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/16-Schema-migrations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/17-Long-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-Node-Database-Drivers-Transactions-Pools-ORMs-Data-Access/18-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Node HTTP server",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/01-Node-HTTP-server.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request lifecycle",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/02-Request-lifecycle.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Express awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/03-Express-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Fastify awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/04-Fastify-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Middleware",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/05-Middleware.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Routing",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/06-Routing.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Controllers",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/07-Controllers.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Services",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/08-Services.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Repositories",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/09-Repositories.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Dependency injection patterns",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/10-Dependency-injection-patterns.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/11-Configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Environment variables",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/12-Environment-variables.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/13-Validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Schema validation awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/14-Schema-validation-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Logging",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/15-Logging.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/16-Request-IDs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/17-Graceful-shutdown.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Health endpoints",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/18-Health-endpoints.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Framework trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Node-js-Backend-Architecture-HTTP-Express-Fastify-Awareness-Service-Design/19-Framework-trade-offs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/01-REST-resource-design.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/02-HTTP-methods.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/03-Status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "DTO/schema validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/04-DTO-schema-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/05-Stable-error-contracts.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/06-Authentication.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/07-Authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/08-Object-level-authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JWT awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/09-JWT-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/10-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/11-Pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Offset pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/12-Offset-pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cursor/keyset pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/13-Cursor-keyset-pagination-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/14-Idempotency-keys.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/15-Retries-and-side-effects.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "CORS",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/16-CORS.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cookies vs bearer tokens",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/17-Cookies-vs-bearer-tokens.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "GraphQL awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/18-GraphQL-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Frontend-backend integration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/19-Frontend-backend-integration.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-GraphQL-Awareness-Frontend-Integration/20-OpenAPI-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Performance methodology",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/01-Performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/02-Latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/03-Throughput.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Event-loop lag",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/04-Event-loop-lag.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "CPU-bound work",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/05-CPU-bound-work.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Memory allocation",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/06-Memory-allocation.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "GC pressure",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/07-GC-pressure.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Heap growth",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/08-Heap-growth.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Node profiling",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/09-Node-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Stream performance",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/10-Stream-performance.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Database pool waits",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/11-Database-pool-waits.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "HTTP connection reuse awareness",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/12-HTTP-connection-reuse-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Caching",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/13-Caching.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Memoization trade-offs",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/14-Memoization-trade-offs.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Browser bundle size",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/15-Browser-bundle-size.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Code splitting",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/16-Code-splitting.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Lazy loading",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/17-Lazy-loading.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Rendering performance awareness",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/18-Rendering-performance-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Layout/reflow awareness",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/19-Layout-reflow-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Web Vitals awareness",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/20-Web-Vitals-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Benchmarking pitfalls",
+    "file": "M20-Performance-Security/Day-24-JavaScript-Performance-Event-Loop-Memory-Bundles-Rendering-Node-Throughput/21-Benchmarking-pitfalls.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Threat modeling",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/01-Threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Authentication vs authorization",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/02-Authentication-vs-authorization.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/03-BOLA.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/04-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "NoSQL injection awareness",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/05-NoSQL-injection-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "XSS",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/06-XSS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "DOM XSS",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/07-DOM-XSS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CSRF",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/08-CSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CORS",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/09-CORS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/10-SSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Open redirect awareness",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/11-Open-redirect-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Prototype pollution",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/12-Prototype-pollution.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe object merging",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/13-Unsafe-object-merging.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Mass assignment",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/14-Mass-assignment.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/15-File-upload-security.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/16-Path-traversal.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/17-Command-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secrets management",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/18-Secrets-management.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secure logging",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/19-Secure-logging.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "npm supply-chain risk",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/20-npm-supply-chain-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Dependency confusion awareness",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/21-Dependency-confusion-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "ReDoS",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/22-ReDoS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Content Security Policy awareness",
+    "file": "M20-Performance-Security/Day-25-JavaScript-Web-Node-Security-OWASP-Prototype-Pollution-XSS-CSRF-SSRF-Supply-Chain/23-Content-Security-Policy-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/01-System-design-method.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/02-Functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Non-functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/03-Non-functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/04-Capacity-estimation.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Stateless Node services",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/05-Stateless-Node-services.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/06-Load-balancing.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/07-Caching.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "CDN",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/08-CDN.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/09-Rate-limiting.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/10-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Replication awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/11-Replication-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Partitioning awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/12-Partitioning-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/13-Queues.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/14-Events.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/15-Messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/16-Idempotent-consumers.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Outbox pattern",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/17-Outbox-pattern.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/18-Modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/19-Microservices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/20-Service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Consistency trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-JavaScript-Node-Scalability-Caching-Messaging-Service-Boundaries/21-Consistency-trade-offs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/03-Retry.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exponential backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/04-Exponential-backoff.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/05-Jitter.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/06-Retry-budgets.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Circuit breaker",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/07-Circuit-breaker.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Bulkhead",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/08-Bulkhead.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/09-Backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/10-Load-shedding.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/11-Idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/12-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/13-At-least-once-delivery.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/14-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/15-Saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/16-Compensation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/17-Event-ordering.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/18-Dead-letter-queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/19-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Distributed tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/20-Distributed-tracing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/21-Correlation-IDs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/22-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/23-Graceful-degradation.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Node production process model",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/01-Node-production-process-model.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Process signals",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/02-Process-signals.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Graceful shutdown",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/03-Graceful-shutdown.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Environment configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/04-Environment-configuration.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/05-Secrets.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/06-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Container resource limits",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/07-Container-resource-limits.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/08-Kubernetes-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/09-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Rolling deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/10-Rolling-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Canary deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/11-Canary-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Blue-green awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/12-Blue-green-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Feature flags",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/13-Feature-flags.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backward-compatible migrations",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/14-Backward-compatible-migrations.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/15-CI-CD.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Immutable artifacts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/16-Immutable-artifacts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/17-Logs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/18-Metrics.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Traces",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/19-Traces.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "SLI/SLO/SLA",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/20-SLI-SLO-SLA.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/21-Alerts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/22-Runbooks.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backup/restore",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/23-Backup-restore.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Node-Runtime-Docker-Kubernetes-CI-CD-Observability/24-RPO-RTO.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Legacy JavaScript modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/01-Legacy-JavaScript-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Callback-to-Promise migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/02-Callback-to-Promise-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "CommonJS-to-ESM migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/03-CommonJS-to-ESM-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Monolith modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/04-Monolith-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Frontend performance incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/05-Frontend-performance-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Node backend latency incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/06-Node-backend-latency-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Memory leak incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/07-Memory-leak-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/08-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Database bottleneck",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/09-Database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Event-loop blocking",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/10-Event-loop-blocking.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Framework migration decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/11-Framework-migration-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "TypeScript adoption decision awareness",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/12-TypeScript-adoption-decision-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/13-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/14-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Technical debt",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/15-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Architecture review",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/16-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Capstone challenge",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-JavaScript-Architect-Scenarios-Capstone-Challenge/17-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Output prediction",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/02-Output-prediction.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coercion questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/03-Coercion-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Closure questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/04-Closure-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "this questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/05-this-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Prototype questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/06-Prototype-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Event-loop questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/07-Event-loop-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Promise questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/08-Promise-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/09-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/10-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/11-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Node/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/12-Node-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/13-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/14-Security-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/15-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/16-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/17-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/18-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/19-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-JavaScript-Interview-Readiness-Coding-Runtime-Review-API-Design-Follow-Ups/20-Final-readiness-scoring.md"
+  }
+]
