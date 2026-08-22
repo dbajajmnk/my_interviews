@@ -1,0 +1,4214 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Go language philosophy",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/01-Go-language-philosophy.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Go toolchain",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/02-Go-toolchain.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "go run",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/03-go-run.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "go build",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/04-go-build.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "go test awareness",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/05-go-test-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "gofmt",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/06-gofmt.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "go vet awareness",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/07-go-vet-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "package main",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/08-package-main.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "func main",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/09-func-main.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Imports",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/10-Imports.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Exported vs unexported identifiers",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/11-Exported-vs-unexported-identifiers.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Variables",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/12-Variables.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Short declaration",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/13-Short-declaration.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Constants",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/14-Constants.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "iota awareness",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/15-iota-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Basic operators",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/16-Basic-operators.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "if",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/17-if.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "for",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/18-for.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "switch",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/19-switch.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "defer awareness",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/20-defer-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Coding conventions",
+    "file": "M01-Language-Foundations/Day-01-Go-Ecosystem-Toolchain-Syntax-Packages-Core-Execution/21-Coding-conventions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Static typing",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/01-Static-typing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type inference",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/02-Type-inference.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Defined types",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/03-Defined-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type aliases",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/04-Type-aliases.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Basic types",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/05-Basic-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Integer types",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/06-Integer-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Floating point types",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/07-Floating-point-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Complex types awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/08-Complex-types-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "bool",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/09-bool.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "string",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/10-string.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "byte",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/11-byte.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "rune",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/12-rune.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "UTF-8 awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/13-UTF-8-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Zero values",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/14-Zero-values.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Pointers",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/15-Pointers.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Pointer vs value semantics",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/16-Pointer-vs-value-semantics.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Structs",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/17-Structs.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Anonymous structs",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/18-Anonymous-structs.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Interfaces",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/19-Interfaces.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Implicit interface satisfaction",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/20-Implicit-interface-satisfaction.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "nil",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/21-nil.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Typed nil interface trap",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/22-Typed-nil-interface-trap.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type assertions",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/23-Type-assertions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type switches",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/24-Type-switches.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Comparability",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/25-Comparability.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Equality",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/26-Equality.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Conversions",
+    "file": "M02-Language-Model-Type-System/Day-02-Go-Types-Zero-Values-Pointers-Structs-Interfaces-Nil-Semantics/27-Conversions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/01-Functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/02-Parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Return values",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/03-Return-values.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Multiple return values",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/04-Multiple-return-values.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Named returns awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/05-Named-returns-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Variadic functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/06-Variadic-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "First-class functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/07-First-class-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/08-Function-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Closures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/09-Closures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Anonymous functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/10-Anonymous-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Higher-order functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/11-Higher-order-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "defer",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/12-defer.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "LIFO defer execution",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/13-LIFO-defer-execution.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Deferred argument evaluation",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/14-Deferred-argument-evaluation.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "panic/recover awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/15-panic-recover-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Method values",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/16-Method-values.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Method expressions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/17-Method-expressions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Receiver methods",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/18-Receiver-methods.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Pointer receivers",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/19-Pointer-receivers.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Value receivers",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Multiple-Returns-Closures-Variadics-defer-Functional-Patterns/20-Value-receivers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Struct modeling",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/01-Struct-modeling.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Methods",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/02-Methods.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Value receivers",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/03-Value-receivers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Pointer receivers",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/04-Pointer-receivers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Method sets",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/05-Method-sets.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/06-Interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Small interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/07-Small-interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Interface segregation",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/08-Interface-segregation.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Embedding structs",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/09-Embedding-structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Embedding interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/10-Embedding-interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Promoted methods",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/11-Promoted-methods.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/12-Composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Constructor functions",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/13-Constructor-functions.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Functional options pattern awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/14-Functional-options-pattern-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Encapsulation through packages",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/15-Encapsulation-through-packages.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Immutable-by-convention design",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/16-Immutable-by-convention-design.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Dependency injection",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/17-Dependency-injection.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Behavior-oriented interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/18-Behavior-oriented-interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Duck typing comparison awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Struct-Design-Methods-Interfaces-Embedding-Composition/19-Duck-typing-comparison-awareness.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Go/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Functions as Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/12-Functions-as-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interfaces as behavior contracts",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/13-Interfaces-as-behavior-contracts.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Channels/events vs Observer awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/14-Channels-events-vs-Observer-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Functional options vs Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/15-Functional-options-vs-Builder.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Go-Native-Pattern-Design/16-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Arrays",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/01-Arrays.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Slices",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/02-Slices.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Slice header awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/03-Slice-header-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "len",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/04-len.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "cap",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/05-cap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "append",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/06-append.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "copy",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/07-copy.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Slice growth awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/08-Slice-growth-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Slice aliasing",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/09-Slice-aliasing.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Sub-slicing memory retention",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/10-Sub-slicing-memory-retention.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Maps",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/11-Maps.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Map lookup comma-ok",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/12-Map-lookup-comma-ok.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Map iteration order",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/13-Map-iteration-order.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Delete",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/14-Delete.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Clear awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/15-Clear-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Strings",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/16-Strings.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Bytes vs runes",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/17-Bytes-vs-runes.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "UTF-8",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/18-UTF-8.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "range over string",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/19-range-over-string.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strings package",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/20-strings-package.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "bytes package",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/21-bytes-package.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "sort package",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/22-sort-package.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "slices package awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/23-slices-package-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "maps package awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/24-maps-package-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "container/heap awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/25-container-heap-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "container/list awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/26-container-list-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Collection complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-Slices-Maps-Strings-Runes-Standard-Library-Collections/27-Collection-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "error interface",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/01-error-interface.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "errors.New",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/02-errors-New.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "fmt.Errorf",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/03-fmt-Errorf.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error wrapping with %w",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/04-Error-wrapping-with-w.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "errors.Is",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/05-errors-Is.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "errors.As",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/06-errors-As.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom error types",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/07-Custom-error-types.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Sentinel errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/08-Sentinel-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Typed errors vs sentinel trade-offs",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/09-Typed-errors-vs-sentinel-trade-offs.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Multiple errors awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/10-Multiple-errors-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "errors.Join awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/11-errors-Join-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error context",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/12-Error-context.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/13-Error-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "panic",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/14-panic.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "recover",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/15-recover.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "When panic is appropriate",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/16-When-panic-is-appropriate.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "defer for cleanup",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/17-defer-for-cleanup.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Close errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/18-Close-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Partial failure",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/19-Partial-failure.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Retryable vs non-retryable errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/20-Retryable-vs-non-retryable-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Errors-Wrapping-errors-Is-As-panic-recover-Resource-Cleanup/21-API-error-contracts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Go modules",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/01-Go-modules.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go.mod",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/02-go-mod.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Module paths",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/03-Module-paths.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Semantic import versioning awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/04-Semantic-import-versioning-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go.sum",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/05-go-sum.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependency graph",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/06-Dependency-graph.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go get",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/07-go-get.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go mod tidy",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/08-go-mod-tidy.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go mod download",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/09-go-mod-download.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go mod graph awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/10-go-mod-graph-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "go list awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/11-go-list-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "replace directive awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/12-replace-directive-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "exclude directive awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/13-exclude-directive-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Internal packages",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/14-Internal-packages.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cmd layout awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/15-cmd-layout-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Package cycles",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/16-Package-cycles.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Workspaces go.work awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/17-Workspaces-go-work-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Build tags awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/18-Build-tags-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Environment variables GOOS GOARCH",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/19-Environment-variables-GOOS-GOARCH.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cross compilation",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/20-Cross-compilation.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "CGO awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/21-CGO-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Vendoring awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/22-Vendoring-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Reproducible builds",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/23-Reproducible-builds.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependency supply-chain risk",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Packages-go-mod-Dependencies-Workspaces-Build-Management/24-Dependency-supply-chain-risk.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Go runtime overview",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/01-Go-runtime-overview.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Goroutine stack growth",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/02-Goroutine-stack-growth.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Heap vs stack",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/03-Heap-vs-stack.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Escape analysis",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/04-Escape-analysis.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "go build -gcflags awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/05-go-build-gcflags-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Garbage collector",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/06-Garbage-collector.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "GC roots awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/07-GC-roots-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Allocation rate",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/08-Allocation-rate.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "GOGC awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/09-GOGC-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Memory scavenging awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/10-Memory-scavenging-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "GMP scheduler model",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/11-GMP-scheduler-model.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Goroutines vs OS threads",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/12-Goroutines-vs-OS-threads.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Work stealing awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/13-Work-stealing-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Syscalls and scheduler awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/14-Syscalls-and-scheduler-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Interface representation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/15-Interface-representation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Boxing into interface awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/16-Boxing-into-interface-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Method dispatch",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/17-Method-dispatch.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Reflection cost",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/18-Reflection-cost.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Inlining awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/19-Inlining-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Bounds-check elimination awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/20-Bounds-check-elimination-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Compiler optimization vs language guarantee",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Go-Runtime-Goroutine-Stacks-Scheduler-GC-Escape-Analysis-Interfaces/21-Compiler-optimization-vs-language-guarantee.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Goroutines",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/01-Goroutines.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "go statement",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/02-go-statement.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Channel types",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/03-Channel-types.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Unbuffered channels",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/04-Unbuffered-channels.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Buffered channels",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/05-Buffered-channels.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Send",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/06-Send.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Receive",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/07-Receive.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Channel close",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/08-Channel-close.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Range over channel",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/09-Range-over-channel.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Who closes a channel",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/10-Who-closes-a-channel.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "select",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/11-select.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "default case",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/12-default-case.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Timeout with select awareness",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/13-Timeout-with-select-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "context.Context",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/14-context-Context.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Cancellation",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/15-Cancellation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Deadlines",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/16-Deadlines.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Timeouts",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/17-Timeouts.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Context propagation",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/18-Context-propagation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Context values caution",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/19-Context-values-caution.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "WaitGroup",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/20-WaitGroup.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "errgroup awareness",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/21-errgroup-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Fan-out",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/22-Fan-out.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Fan-in",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/23-Fan-in.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Worker pools",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/24-Worker-pools.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Pipeline pattern",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/25-Pipeline-pattern.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Goroutine leaks",
+    "file": "M10-Concurrency-Async/Day-11-Goroutines-Channels-select-Structured-Concurrency-with-context/26-Goroutine-leaks.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Data races",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/01-Data-races.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Go memory model awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/02-Go-memory-model-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Happens-before awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/03-Happens-before-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.Mutex",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/04-sync-Mutex.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.RWMutex",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/05-sync-RWMutex.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.Once",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/06-sync-Once.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.Cond awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/07-sync-Cond-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.Pool awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/08-sync-Pool-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "sync.Map awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/09-sync-Map-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "atomic package awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/10-atomic-package-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomic types awareness",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/11-Atomic-types-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "WaitGroup misuse",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/12-WaitGroup-misuse.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Mutex copy pitfalls",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/13-Mutex-copy-pitfalls.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Lock ordering",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/14-Lock-ordering.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Deadlock",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/15-Deadlock.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Channel vs mutex trade-offs",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/16-Channel-vs-mutex-trade-offs.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Race detector",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/17-Race-detector.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "go test -race",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/18-go-test-race.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "False assumptions about maps",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/19-False-assumptions-about-maps.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Concurrent map safety",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/20-Concurrent-map-safety.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/21-Backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Bounded concurrency",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/22-Bounded-concurrency.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Semaphore pattern",
+    "file": "M10-Concurrency-Async/Day-12-sync-Primitives-Atomics-Race-Detector-Concurrent-Design/23-Semaphore-pattern.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/01-Generic-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/02-Generic-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type parameters",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/03-Type-parameters.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Constraints",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/04-Constraints.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "any",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/05-any.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "comparable",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/06-comparable.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type sets",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/07-Type-sets.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Union elements in constraints",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/08-Union-elements-in-constraints.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Approximation element ~",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/09-Approximation-element.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic inference",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/10-Generic-inference.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Parameterized containers",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/11-Parameterized-containers.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "When not to use generics",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/12-When-not-to-use-generics.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Interface embedding",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/13-Interface-embedding.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Struct embedding",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/14-Struct-embedding.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type switches",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/15-Type-switches.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Reflection awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/16-Reflection-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "unsafe package awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/17-unsafe-package-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Functional options",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/18-Functional-options.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Compile-time interface assertions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/19-Compile-time-interface-assertions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Build-time code generation awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/20-Build-time-code-generation-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "go generate awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Constraints-Type-Sets-Embedding-Advanced-Go/21-go-generate-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "io.Reader",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/01-io-Reader.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "io.Writer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/02-io-Writer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "io.Closer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/03-io-Closer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "io.Copy",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/04-io-Copy.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "io.LimitReader",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/05-io-LimitReader.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "bufio.Reader",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/06-bufio-Reader.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "bufio.Writer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/07-bufio-Writer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "bytes.Buffer",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/08-bytes-Buffer.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "strings.Reader",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/09-strings-Reader.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "os.File",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/10-os-File.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "os.Open",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/11-os-Open.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "os.Create",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/12-os-Create.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "defer Close",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/13-defer-Close.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fs package awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/14-fs-package-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "encoding/json",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/15-encoding-json.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON tags",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/16-JSON-tags.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "omitempty awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/17-omitempty-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Custom MarshalJSON awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/18-Custom-MarshalJSON-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Unknown field handling awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/19-Unknown-field-handling-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "HTTP client",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/20-HTTP-client.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "http.Request",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/21-http-Request.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "http.Response",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/22-http-Response.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/23-Timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Context cancellation",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/24-Context-cancellation.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Connection reuse awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/25-Connection-reuse-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Transport awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/26-Transport-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Response body close/drain awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/27-Response-body-close-drain-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Streaming responses",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/28-Streaming-responses.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Payload size limits",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/29-Payload-size-limits.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "net package awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/30-net-package-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "WebSocket library awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-JSON-Files-Buffers-HTTP-Clients-Networking/31-WebSocket-library-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Slices",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/03-Slices.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Strings",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/04-Strings.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Bytes vs runes in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/05-Bytes-vs-runes-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Maps for hashing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/06-Maps-for-hashing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sets with map[T]struct{}",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/07-Sets-with-map-T-struct.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/08-Two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/09-Sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Stack with slice",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/10-Stack-with-slice.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Queue with slice pitfalls",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/11-Queue-with-slice-pitfalls.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "ArrayDeque equivalent patterns awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/12-ArrayDeque-equivalent-patterns-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/13-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/14-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Edge cases",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/15-Edge-cases.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Complexity communication",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Slices-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/16-Complexity-communication.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/01-Recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Goroutine stack vs recursion stack awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/02-Goroutine-stack-vs-recursion-stack-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary trees",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/03-Binary-trees.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Tree traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/04-Tree-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BST awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/05-BST-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "container/heap",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/06-container-heap.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/07-Top-K.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/08-Graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Adjacency lists",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/09-Adjacency-lists.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/10-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/11-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Visited map",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/12-Visited-map.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/13-Cycle-detection.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/14-Topological-sort.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "V and E complexity",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/15-V-and-E-complexity.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/16-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Generic graph helpers awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/17-Generic-graph-helpers-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Debugging workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/01-Debugging-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Delve debugger awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/02-Delve-debugger-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "go test failure analysis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/03-go-test-failure-analysis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/04-Stack-traces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "runtime.Stack awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/05-runtime-Stack-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Goroutine dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/06-Goroutine-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "pprof CPU profile",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/07-pprof-CPU-profile.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "pprof heap profile",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/08-pprof-heap-profile.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Allocation profiles",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/09-Allocation-profiles.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Block profile",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/10-Block-profile.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Mutex profile",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/11-Mutex-profile.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "go tool trace",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/12-go-tool-trace.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Execution trace awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/13-Execution-trace-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Race detector",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/14-Race-detector.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Deadlock diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/15-Deadlock-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Goroutine leak diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/16-Goroutine-leak-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "GC metrics awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/17-GC-metrics-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "HTTP trace awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/18-HTTP-trace-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Database wait diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/19-Database-wait-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "One-instance anomaly diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/20-One-instance-anomaly-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Root-cause evidence",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Go-Debugging-pprof-trace-Race-Detector-Delve-Runtime-Diagnostics/21-Root-cause-evidence.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Risk-first code review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/01-Risk-first-code-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/02-Correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Error handling review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/03-Error-handling-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Context review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/04-Context-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Goroutine lifecycle review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/05-Goroutine-lifecycle-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Data race review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/06-Data-race-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Nil handling",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/07-Nil-handling.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Slice aliasing",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/08-Slice-aliasing.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Interface design",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/09-Interface-design.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Package boundaries",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/10-Package-boundaries.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Exported API design",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/11-Exported-API-design.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Large interfaces",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/12-Large-interfaces.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Premature abstractions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/13-Premature-abstractions.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Global state",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/14-Global-state.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "init function caution",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/15-init-function-caution.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "defer in hot loops awareness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/16-defer-in-hot-loops-awareness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/17-Refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/18-Characterization-tests.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/19-Naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Comments on exported identifiers",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/20-Comments-on-exported-identifiers.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Backward compatibility",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/21-Backward-compatibility.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Technical debt",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/22-Technical-debt.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Go-like simplicity",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Go/23-Go-like-simplicity.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated packages",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/02-Hallucinated-packages.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated stdlib APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/03-Hallucinated-stdlib-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Wrong context handling",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/04-Wrong-context-handling.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Goroutine leaks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/05-Goroutine-leaks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Channel close bugs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/06-Channel-close-bugs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Deadlocks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/07-Deadlocks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Race conditions",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/08-Race-conditions.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Ignored errors",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/09-Ignored-errors.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Typed nil bugs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/10-Typed-nil-bugs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Slice aliasing bugs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/11-Slice-aliasing-bugs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "HTTP body leaks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/12-HTTP-body-leaks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "SQL injection",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/13-SQL-injection.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unsafe reflection",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/14-Unsafe-reflection.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "unsafe package misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/15-unsafe-package-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/16-Generated-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated benchmarks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/17-Generated-benchmarks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated regex awareness",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/18-Generated-regex-awareness.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated Docker/Kubernetes config",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/19-Generated-Docker-Kubernetes-config.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Performance claims",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/20-Performance-claims.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/21-Human-approval.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Accept repair reject rubric",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Go-Code-Evaluation-Safe-Engineering-Use/22-Accept-repair-reject-rubric.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "testing package",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/01-testing-package.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test functions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/02-Test-functions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Subtests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/03-Subtests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Table-driven tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/04-Table-driven-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "t.Helper",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/05-t-Helper.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "t.Cleanup",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/06-t-Cleanup.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Parallel tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/07-Parallel-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test isolation",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/08-Test-isolation.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Examples awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/09-Examples-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "httptest",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/10-httptest.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "HTTP handler tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/11-HTTP-handler-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/12-Fakes.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/13-Stubs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mocks trade-offs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/14-Mocks-trade-offs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Interface-based test doubles",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/15-Interface-based-test-doubles.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fuzz testing",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/16-Fuzz-testing.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "go test -fuzz awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/17-go-test-fuzz-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Benchmarks",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/18-Benchmarks.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "b.N",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/19-b-N.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "b.ReportAllocs awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/20-b-ReportAllocs-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Race tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/21-Race-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/22-Integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Database tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/23-Database-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Testcontainers awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/24-Testcontainers-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coverage limitations",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/25-Coverage-limitations.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Flaky tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/26-Flaky-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Golden files awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-testing-Package-Table-Tests-Fuzzing-Benchmarks-Integration/27-Golden-files-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "database/sql",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/01-database-sql.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "sql.DB is a pool",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/02-sql-DB-is-a-pool.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Open vs Ping awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/03-Open-vs-Ping-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Parameterized queries",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/04-Parameterized-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Query",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/05-Query.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "QueryRow",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/06-QueryRow.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Exec",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/07-Exec.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Rows close",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/08-Rows-close.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Scan",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/09-Scan.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Null types awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/10-Null-types-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Context-aware DB calls",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/11-Context-aware-DB-calls.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/12-Transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Tx lifecycle",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/13-Tx-lifecycle.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/14-Isolation-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/15-Locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/16-Optimistic-concurrency.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection pool settings",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/17-Connection-pool-settings.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "MaxOpenConns",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/18-MaxOpenConns.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "MaxIdleConns",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/19-MaxIdleConns.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "ConnMaxLifetime awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/20-ConnMaxLifetime-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/21-N-1.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Batch queries",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/22-Batch-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Repository boundaries",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/23-Repository-boundaries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "pgx awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/24-pgx-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "sqlc awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/25-sqlc-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "GORM awareness",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/26-GORM-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Migrations",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/27-Migrations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/28-Long-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-21-database-sql-Transactions-Pools-pgx-sqlc-GORM-Awareness-Data-Access/29-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "net/http server",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/01-net-http-server.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "http.Handler",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/02-http-Handler.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "http.HandlerFunc",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/03-http-HandlerFunc.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "ServeMux",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/04-ServeMux.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request lifecycle",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/05-Request-lifecycle.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Context on requests",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/06-Context-on-requests.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Middleware pattern",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/07-Middleware-pattern.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "chi awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/08-chi-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Gin awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/09-Gin-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Echo awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/10-Echo-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Framework vs stdlib trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/11-Framework-vs-stdlib-trade-offs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Controllers/handlers",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/12-Controllers-handlers.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Services/use cases",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/13-Services-use-cases.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Repositories",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/14-Repositories.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Dependency injection with constructors",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/15-Dependency-injection-with-constructors.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/16-Configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Environment variables",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/17-Environment-variables.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/18-Runtime-validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Structured logging awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/19-Structured-logging-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/20-Request-IDs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/21-Graceful-shutdown.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Server timeouts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/22-Server-timeouts.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Readiness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/23-Readiness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Health endpoints",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/24-Health-endpoints.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Panic recovery middleware awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Go-Backend-Architecture-net-http-Routers-Middleware-Service-Design/25-Panic-recovery-middleware-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/01-REST-resource-design.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/02-HTTP-methods.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/03-Status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JSON DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/04-JSON-DTOs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/05-Validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/06-Stable-error-contracts.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/07-Authentication.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/08-Authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/09-Object-level-authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JWT awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/10-JWT-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/11-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/12-Pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cursor pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/13-Cursor-pagination-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/14-Idempotency-keys.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/15-Retries-and-side-effects.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "CORS awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/16-CORS-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/17-OpenAPI-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "gRPC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/18-gRPC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Protobuf awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/19-Protobuf-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP/2 awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/20-HTTP-2-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Generated clients awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/21-Generated-clients-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "API versioning",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/22-API-versioning.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Backward compatibility",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Pagination-gRPC-Awareness-API-Contracts/23-Backward-compatibility.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Performance methodology",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/01-Performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/02-Latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/03-Throughput.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "CPU profiling",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/04-CPU-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Heap profiling",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/05-Heap-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Allocation rate",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/06-Allocation-rate.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Escape analysis",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/07-Escape-analysis.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Inlining awareness",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/08-Inlining-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Bounds-check elimination awareness",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/09-Bounds-check-elimination-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "GC pressure",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/10-GC-pressure.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "GOGC awareness",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/11-GOGC-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Goroutine scheduling overhead",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/12-Goroutine-scheduling-overhead.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Too many goroutines",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/13-Too-many-goroutines.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Lock contention",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/14-Lock-contention.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Channel contention",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/15-Channel-contention.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Buffer reuse",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/16-Buffer-reuse.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "sync.Pool trade-offs",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/17-sync-Pool-trade-offs.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "String/byte conversions",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/18-String-byte-conversions.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Copy avoidance awareness",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/19-Copy-avoidance-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "I/O buffering",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/20-I-O-buffering.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Database pool waits",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/21-Database-pool-waits.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "HTTP connection reuse",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/22-HTTP-connection-reuse.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Caching",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/23-Caching.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Benchmarking",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/24-Benchmarking.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Warmup considerations awareness",
+    "file": "M20-Performance-Security/Day-24-Go-Performance-Allocation-GC-Scheduler-I-O-DB-Benchmarking/25-Warmup-considerations-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Threat modeling",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/01-Threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Authentication vs authorization",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/02-Authentication-vs-authorization.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/03-BOLA.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/04-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/05-Command-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/06-Path-traversal.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/07-SSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Open redirect awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/08-Open-redirect-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/09-File-upload-security.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Request body limits",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/10-Request-body-limits.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "JSON validation",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/11-JSON-validation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Mass assignment awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/12-Mass-assignment-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secrets management",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/13-Secrets-management.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secure logging",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/14-Secure-logging.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "TLS configuration awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/15-TLS-configuration-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "JWT validation awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/16-JWT-validation-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CORS awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/17-CORS-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CSRF awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/18-CSRF-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "XSS awareness for templates",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/19-XSS-awareness-for-templates.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "html/template escaping",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/20-html-template-escaping.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "text/template caution",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/21-text-template-caution.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Dependency vulnerabilities",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/22-Dependency-vulnerabilities.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "govulncheck awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/23-govulncheck-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Module supply-chain risk",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/24-Module-supply-chain-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Rate limiting awareness",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/25-Rate-limiting-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "unsafe package risk",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/26-unsafe-package-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Race conditions as security risk",
+    "file": "M20-Performance-Security/Day-25-Go-Security-Web-API-Input-Files-SSRF-Supply-Chain-Memory-Safe-Boundaries/27-Race-conditions-as-security-risk.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/01-System-design-method.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/02-Functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Non-functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/03-Non-functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/04-Capacity-estimation.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Stateless Go services",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/05-Stateless-Go-services.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/06-Load-balancing.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/07-Caching.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "CDN awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/08-CDN-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/09-Rate-limiting.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/10-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Replication awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/11-Replication-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Partitioning awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/12-Partitioning-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/13-Queues.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/14-Events.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/15-Messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/16-Idempotent-consumers.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Outbox pattern",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/17-Outbox-pattern.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/18-Modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/19-Microservices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/20-Service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Interface boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/21-Interface-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Consistency trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/22-Consistency-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/23-Backpressure.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Observability",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Go-Scalability-Caching-Messaging-Service-Boundaries/24-Observability.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Context deadlines",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/03-Context-deadlines.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retries",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/04-Retries.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exponential backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/05-Exponential-backoff.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/06-Jitter.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/07-Retry-budgets.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Circuit breaker",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/08-Circuit-breaker.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Bulkhead",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/09-Bulkhead.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/10-Backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/11-Load-shedding.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/12-Idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/13-At-least-once-delivery.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/14-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/15-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/16-Saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/17-Compensation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/18-Event-ordering.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/19-Dead-letter-queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/20-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Distributed tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/21-Distributed-tracing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "OpenTelemetry awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/22-OpenTelemetry-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/23-Correlation-IDs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/24-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/25-Graceful-degradation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Context cancellation across service calls",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/26-Context-cancellation-across-service-calls.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Go build pipeline",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/01-Go-build-pipeline.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Static binaries awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/02-Static-binaries-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CGO implications",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/03-CGO-implications.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Build reproducibility",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/04-Build-reproducibility.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Version metadata awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/05-Version-metadata-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Tests in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/06-Tests-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "go vet",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/07-go-vet.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Staticcheck awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/08-Staticcheck-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "govulncheck awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/09-govulncheck-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/10-Configuration.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/11-Secrets.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/12-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Multi-stage builds",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/13-Multi-stage-builds.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Minimal images awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/14-Minimal-images-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Non-root containers",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/15-Non-root-containers.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/16-Kubernetes-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/17-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Graceful shutdown",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/18-Graceful-shutdown.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Rolling deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/19-Rolling-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Canary",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/20-Canary.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Feature flags",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/21-Feature-flags.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backward-compatible migrations",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/22-Backward-compatible-migrations.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/23-CI-CD.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Immutable artifacts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/24-Immutable-artifacts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/25-Logs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/26-Metrics.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Traces",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/27-Traces.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "SLI/SLO/SLA",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/28-SLI-SLO-SLA.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/29-Alerts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/30-Runbooks.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/31-RPO-RTO.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backup restore",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Go-Builds-Containers-Kubernetes-CI-CD-Observability/32-Backup-restore.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Legacy service modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/01-Legacy-service-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Java/Node to Go migration decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/02-Java-Node-to-Go-migration-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Monolith modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/03-Monolith-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Goroutine leak incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/04-Goroutine-leak-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Memory growth incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/05-Memory-growth-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Latency incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/06-Latency-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Database bottleneck",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/07-Database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Race-condition incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/08-Race-condition-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Framework vs stdlib decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/09-Framework-vs-stdlib-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "gRPC adoption decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/10-gRPC-adoption-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Event-driven migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/11-Event-driven-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Microservice extraction decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/12-Microservice-extraction-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Observability redesign",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/13-Observability-redesign.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/14-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Technical debt",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/15-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/16-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Architecture review",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/17-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/18-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Team coding standards",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/19-Team-coding-standards.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Capstone challenge",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Go-Architect-Scenarios-Capstone-Challenge/20-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Slice questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/02-Slice-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Interface/nil questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/03-Interface-nil-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Pointer questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/04-Pointer-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Error questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/05-Error-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "defer questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/06-defer-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Goroutine questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/07-Goroutine-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Channel questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/08-Channel-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Context questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/09-Context-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Race/mutex questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/10-Race-mutex-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Runtime/GC questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/11-Runtime-GC-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Generic questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/12-Generic-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/13-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/14-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/15-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Backend/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/16-Backend-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/17-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/18-Security-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/19-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/20-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/21-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/22-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/23-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Go-Interview-Readiness-Runtime-Concurrency-Coding-Review-API-Design/24-Final-readiness-scoring.md"
+  }
+]

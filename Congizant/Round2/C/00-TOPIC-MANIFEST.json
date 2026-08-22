@@ -1,0 +1,4310 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "C language overview",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/01-C-language-overview.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Compiler toolchain",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/02-Compiler-toolchain.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Preprocessor",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/03-Preprocessor.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Compilation",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/04-Compilation.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Linking",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/05-Linking.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Translation units",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/06-Translation-units.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Header files",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/07-Header-files.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Source files",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/08-Source-files.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "main function",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/09-main-function.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Variables",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/10-Variables.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "const",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/11-const.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "volatile awareness",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/12-volatile-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Operators",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/13-Operators.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "if",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/14-if.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "switch",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/15-switch.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "for",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/16-for.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "while",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/17-while.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "do-while",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/18-do-while.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "break",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/19-break.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "continue",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/20-continue.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "goto awareness",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/21-goto-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Compiler warnings",
+    "file": "M01-Language-Foundations/Day-01-C-Toolchain-Syntax-Compilation/22-Compiler-warnings.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Integer types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/01-Integer-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Signed vs unsigned",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/02-Signed-vs-unsigned.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Integer promotions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/03-Integer-promotions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Usual arithmetic conversions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/04-Usual-arithmetic-conversions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Floating-point types",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/05-Floating-point-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "char",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/06-char.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "size_t",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/07-size-t.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "ptrdiff_t",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/08-ptrdiff-t.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Fixed-width integers stdint.h",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/09-Fixed-width-integers-stdint-h.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Enums",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/10-Enums.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "typedef",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/11-typedef.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Pointers",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/12-Pointers.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Null pointer",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/13-Null-pointer.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Pointer arithmetic",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/14-Pointer-arithmetic.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Arrays",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/15-Arrays.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Array-to-pointer decay",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/16-Array-to-pointer-decay.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Multidimensional arrays",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/17-Multidimensional-arrays.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Structs",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/18-Structs.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Unions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/19-Unions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Bit-fields awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/20-Bit-fields-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Alignment",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/21-Alignment.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Conversions",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/22-Conversions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "const qualification",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/23-const-qualification.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "restrict",
+    "file": "M02-Language-Model-Type-System/Day-02-Type-System-Integers-Pointers-Arrays-Structs/24-restrict.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function declarations",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/01-Function-declarations.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function definitions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/02-Function-definitions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Prototypes",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/03-Prototypes.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Pass by value",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/04-Pass-by-value.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Pointers for mutation",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/05-Pointers-for-mutation.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Array parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/06-Array-parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Return values",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/07-Return-values.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Returning structs",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/08-Returning-structs.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Returning pointers safely",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/09-Returning-pointers-safely.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Variadic functions awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/10-Variadic-functions-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "stdarg.h awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/11-stdarg-h-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function pointers",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/12-Function-pointers.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Callbacks",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/13-Callbacks.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Comparator callbacks",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/14-Comparator-callbacks.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Recursion",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/15-Recursion.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Block scope",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/16-Block-scope.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "File scope",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/17-File-scope.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Static storage duration",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/18-Static-storage-duration.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Automatic storage duration",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/19-Automatic-storage-duration.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "extern",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/20-extern.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "static functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/21-static-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "inline awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Scope-Storage-Duration-Callbacks/22-inline-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Procedural design",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/01-Procedural-design.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Abstract data types",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/02-Abstract-data-types.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Opaque structs",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/03-Opaque-structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Incomplete types",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/04-Incomplete-types.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Header/API boundaries",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/05-Header-API-boundaries.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Encapsulation through translation units",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/06-Encapsulation-through-translation-units.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition with structs",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/07-Composition-with-structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Function tables",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/08-Function-tables.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Vtable pattern awareness",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/09-Vtable-pattern-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Interface by function pointers",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/10-Interface-by-function-pointers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Dependency injection with function pointers",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/11-Dependency-injection-with-function-pointers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Context objects",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/12-Context-objects.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Handle pattern",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/13-Handle-pattern.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "State machines",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/14-State-machines.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Tagged unions",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/15-Tagged-unions.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Discriminated union pattern",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/16-Discriminated-union-pattern.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Object-like design in C awareness",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/17-Object-like-design-in-C-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Data-oriented design awareness",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/18-Data-oriented-design-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "API ownership contracts",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/19-API-ownership-contracts.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "ABI-aware struct design",
+    "file": "M04-OOP-Design-Model/Day-04-C-Design-Model-ADTs-Opaque-Types-Function-Tables/20-ABI-aware-struct-design.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-GoF-Creational-Structural-Patterns-in-C/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Function pointers as Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/12-Function-pointers-as-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Callback tables as Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/13-Callback-tables-as-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State machine vs State pattern",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/14-State-machine-vs-State-pattern.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Tagged unions vs Visitor awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/15-Tagged-unions-vs-Visitor-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-in-C/16-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Arrays",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/01-Arrays.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Character arrays",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/02-Character-arrays.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "C strings",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/03-C-strings.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Null terminator",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/04-Null-terminator.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strlen",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/05-strlen.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strcmp",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/06-strcmp.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strncmp",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/07-strncmp.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strcpy risk awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/08-strcpy-risk-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strncpy caveats",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/09-strncpy-caveats.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "snprintf",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/10-snprintf.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strchr",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/11-strchr.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strstr",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/12-strstr.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "strtok caveats",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/13-strtok-caveats.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "memcpy",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/14-memcpy.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "memmove",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/15-memmove.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "memset",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/16-memset.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "memcmp",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/17-memcmp.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "qsort",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/18-qsort.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "bsearch",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/19-bsearch.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Dynamic arrays implementation awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/20-Dynamic-arrays-implementation-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Linked list implementation awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/21-Linked-list-implementation-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Hash table implementation awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/22-Hash-table-implementation-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Ring buffer awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/23-Ring-buffer-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Flexible array members",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/24-Flexible-array-members.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Container ownership",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/25-Container-ownership.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Arrays-C-Strings-Memory-Utilities-Containers/26-Complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Return-code error handling",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/01-Return-code-error-handling.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Boolean success/failure",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/02-Boolean-success-failure.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Out parameters",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/03-Out-parameters.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Sentinel values",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/04-Sentinel-values.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "errno",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/05-errno.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "perror",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/06-perror.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "strerror awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/07-strerror-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom error enums",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/08-Custom-error-enums.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error structs awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/09-Error-structs-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error propagation",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/10-Error-propagation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error context",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/11-Error-context.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "goto cleanup pattern",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/12-goto-cleanup-pattern.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Single-exit cleanup pattern",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/13-Single-exit-cleanup-pattern.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Partial initialization",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/14-Partial-initialization.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Resource cleanup",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/15-Resource-cleanup.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "setjmp awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/16-setjmp-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "longjmp awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/17-longjmp-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Recoverable vs programmer errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/18-Recoverable-vs-programmer-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/19-API-error-contracts.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Retryable vs non-retryable errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Error-Handling-errno-Cleanup-Patterns/20-Retryable-vs-non-retryable-errors.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Header discipline",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/01-Header-discipline.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Include guards",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/02-Include-guards.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "pragma once awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/03-pragma-once-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Declarations vs definitions",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/04-Declarations-vs-definitions.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "External linkage",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/05-External-linkage.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Internal linkage",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/06-Internal-linkage.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "static at file scope",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/07-static-at-file-scope.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "extern",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/08-extern.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Tentative definitions awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/09-Tentative-definitions-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Multiple definition errors",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/10-Multiple-definition-errors.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Static libraries",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/11-Static-libraries.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Shared libraries",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/12-Shared-libraries.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dynamic linking awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/13-Dynamic-linking-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Symbol visibility awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/14-Symbol-visibility-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "ABI awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/15-ABI-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Make awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/16-Make-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Makefile targets",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/17-Makefile-targets.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "CMake awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/18-CMake-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "pkg-config awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/19-pkg-config-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Compiler flags",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/20-Compiler-flags.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Feature-test macros awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/21-Feature-test-macros-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cross compilation",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/22-Cross-compilation.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Vendoring",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/23-Vendoring.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Supply-chain risk",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Headers-Linkage-Libraries-Build-Systems/24-Supply-chain-risk.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Object lifetime in C",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/01-Object-lifetime-in-C.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Storage durations",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/02-Storage-durations.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Stack practical model",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/03-Stack-practical-model.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Heap practical model",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/04-Heap-practical-model.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "malloc",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/05-malloc.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "calloc",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/06-calloc.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "realloc",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/07-realloc.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "free",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/08-free.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Allocation failure",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/09-Allocation-failure.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "realloc safe pattern",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/10-realloc-safe-pattern.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Memory leaks",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/11-Memory-leaks.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Double free",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/12-Double-free.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Use-after-free",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/13-Use-after-free.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Dangling pointer",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/14-Dangling-pointer.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Wild pointer",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/15-Wild-pointer.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Uninitialized memory",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/16-Uninitialized-memory.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Indeterminate values awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/17-Indeterminate-values-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Effective type awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/18-Effective-type-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Strict aliasing awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/19-Strict-aliasing-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Alignment",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/20-Alignment.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Padding",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/21-Padding.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Object representation",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/22-Object-representation.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Undefined behavior",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/23-Undefined-behavior.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Unspecified behavior",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/24-Unspecified-behavior.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Implementation-defined behavior",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/25-Implementation-defined-behavior.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Sequencing rules awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/26-Sequencing-rules-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Sanitizers awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Memory-Allocation-Aliasing-Undefined-Behavior/27-Sanitizers-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "C11 threads awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/01-C11-threads-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "POSIX pthreads awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/02-POSIX-pthreads-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "pthread_create awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/03-pthread-create-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "pthread_join awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/04-pthread-join-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "pthread_mutex_t awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/05-pthread-mutex-t-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "pthread_cond_t awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/06-pthread-cond-t-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Data races",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/07-Data-races.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "C memory model awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/08-C-memory-model-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Happens-before awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/09-Happens-before-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Thread-local storage",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/10-Thread-local-storage.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "_Thread_local awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/11-Thread-local-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Deadlock",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/12-Deadlock.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Lock ordering",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/13-Lock-ordering.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Condition-variable predicates",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/14-Condition-variable-predicates.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Spurious wakeups",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/15-Spurious-wakeups.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Thread lifecycle",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/16-Thread-lifecycle.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Shared-state design",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/17-Shared-state-design.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "False sharing awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Mutexes-Condvars-C-Memory-Model/18-False-sharing-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "stdatomic.h",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/01-stdatomic-h.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "_Atomic",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/02-Atomic.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomic load/store",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/03-Atomic-load-store.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "atomic_fetch_add awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/04-atomic-fetch-add-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "compare_exchange awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/05-compare-exchange-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "memory_order_seq_cst",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/06-memory-order-seq-cst.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "memory_order_relaxed awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/07-memory-order-relaxed-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Acquire/release awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/08-Acquire-release-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomic flag awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/09-Atomic-flag-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Lock-free awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/10-Lock-free-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Wait-free awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/11-Wait-free-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "ABA problem awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/12-ABA-problem-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "volatile semantics",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/13-volatile-semantics.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "volatile vs atomic",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/14-volatile-vs-atomic.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Signal-handler constraints awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/15-Signal-handler-constraints-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Bounded queues",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/16-Bounded-queues.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Producer-consumer",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/17-Producer-consumer.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Ring buffers",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/18-Ring-buffers.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/19-Backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Semaphore awareness",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/20-Semaphore-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Lock-free programming caution",
+    "file": "M10-Concurrency-Async/Day-12-Atomics-volatile-Concurrent-Data-Structures/21-Lock-free-programming-caution.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C standard evolution awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/01-C-standard-evolution-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C89/C90 awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/02-C89-C90-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C99 awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/03-C99-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C11 awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/04-C11-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C17 awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/05-C17-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "C23 awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/06-C23-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Designated initializers",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/07-Designated-initializers.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Compound literals",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/08-Compound-literals.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Variable length arrays awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/09-Variable-length-arrays-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Flexible array members",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/10-Flexible-array-members.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "_Static_assert",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/11-Static-assert.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "static_assert awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/12-static-assert-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "_Generic",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/13-Generic.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic selection",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/14-Generic-selection.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Anonymous structs/unions awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/15-Anonymous-structs-unions-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "restrict",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/16-restrict.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "_Alignas awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/17-Alignas-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "alignas awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/18-alignas-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Noreturn awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/19-Noreturn-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Attributes awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/20-Attributes-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "typeof awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/21-typeof-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "nullptr awareness in newer C",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/22-nullptr-awareness-in-newer-C.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "constexpr awareness in newer C",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/23-constexpr-awareness-in-newer-C.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Compatibility across standards",
+    "file": "M11-Modern-Advanced-Features/Day-13-Modern-C-C11-C17-C23-Awareness-Generic-Selection/24-Compatibility-across-standards.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "FILE",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/01-FILE.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fopen",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/02-fopen.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fclose",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/03-fclose.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fread",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/04-fread.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fwrite",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/05-fwrite.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fgets",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/06-fgets.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fputs",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/07-fputs.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fprintf",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/08-fprintf.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fscanf risks awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/09-fscanf-risks-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "feof caveat",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/10-feof-caveat.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "ferror",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/11-ferror.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fflush",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/12-fflush.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Binary vs text mode",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/13-Binary-vs-text-mode.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "fseek",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/14-fseek.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "ftell",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/15-ftell.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "POSIX file descriptors awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/16-POSIX-file-descriptors-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "open/read/write/close awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/17-open-read-write-close-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Partial reads/writes",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/18-Partial-reads-writes.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "EINTR awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/19-EINTR-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Binary serialization risks",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/20-Binary-serialization-risks.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Endianness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/21-Endianness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Network byte order",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/22-Network-byte-order.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Struct padding serialization risk",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/23-Struct-padding-serialization-risk.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Sockets awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/24-Sockets-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "socket/bind/listen/accept awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/25-socket-bind-listen-accept-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "connect awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/26-connect-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "send/recv awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/27-send-recv-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/28-Timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "select/poll awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/29-select-poll-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Payload size limits",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/30-Payload-size-limits.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Protocol framing",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Files-Streams-Binary-Data-Networking/31-Protocol-framing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Arrays",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/03-Arrays.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "C strings",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/04-C-strings.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Length-aware string processing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/05-Length-aware-string-processing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Hash table implementation awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/06-Hash-table-implementation-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/07-Two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/08-Sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Stack using array",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/09-Stack-using-array.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Queue using circular buffer",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/10-Queue-using-circular-buffer.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Deque awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/11-Deque-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/12-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/13-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Boundary conditions",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/14-Boundary-conditions.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Off-by-one errors",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/15-Off-by-one-errors.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Integer overflow in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/16-Integer-overflow-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Complexity communication",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Sliding-Windows/17-Complexity-communication.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/01-Recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Call stack depth",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/02-Call-stack-depth.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary tree structs",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/03-Binary-tree-structs.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Tree traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/04-Tree-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BST awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/05-BST-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Heap implementation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/06-Heap-implementation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Priority queue implementation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/07-Priority-queue-implementation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/08-Top-K.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/09-Graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Adjacency matrix",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/10-Adjacency-matrix.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Adjacency list",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/11-Adjacency-list.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/12-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/13-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Visited arrays/maps awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/14-Visited-arrays-maps-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/15-Cycle-detection.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/16-Topological-sort.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "V and E complexity",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/17-V-and-E-complexity.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/18-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Memory ownership in graph structures",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Topological-Sort/19-Memory-ownership-in-graph-structures.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Debugging workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/01-Debugging-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "GDB awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/02-GDB-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "LLDB awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/03-LLDB-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Breakpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/04-Breakpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Watchpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/05-Watchpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Backtraces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/06-Backtraces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Core dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/07-Core-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "AddressSanitizer",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/08-AddressSanitizer.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "UndefinedBehaviorSanitizer",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/09-UndefinedBehaviorSanitizer.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "ThreadSanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/10-ThreadSanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "MemorySanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/11-MemorySanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "LeakSanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/12-LeakSanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Valgrind awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/13-Valgrind-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Static analyzers awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/14-Static-analyzers-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "clang-tidy awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/15-clang-tidy-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "cppcheck awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/16-cppcheck-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Compiler warnings",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/17-Compiler-warnings.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Memory corruption diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/18-Memory-corruption-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Use-after-free diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/19-Use-after-free-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Double-free diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/20-Double-free-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Race diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/21-Race-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Optimized build debugging",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/22-Optimized-build-debugging.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Symbol files",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/23-Symbol-files.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Root-cause evidence",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-GDB-LLDB-Sanitizers-Core-Dumps-Static-Analysis/24-Root-cause-evidence.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Risk-first code review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/01-Risk-first-code-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/02-Correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Bounds review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/03-Bounds-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Pointer lifetime review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/04-Pointer-lifetime-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Ownership review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/05-Ownership-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Allocation/free pairing",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/06-Allocation-free-pairing.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "realloc review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/07-realloc-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Integer conversion review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/08-Integer-conversion-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Signed/unsigned review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/09-Signed-unsigned-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "String safety",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/10-String-safety.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Null handling",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/11-Null-handling.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Error propagation",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/12-Error-propagation.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "goto cleanup review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/13-goto-cleanup-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Concurrency review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/14-Concurrency-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "volatile misuse review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/15-volatile-misuse-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Atomic review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/16-Atomic-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Undefined behavior review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/17-Undefined-behavior-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Macro review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/18-Macro-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Global state",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/19-Global-state.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Header hygiene",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/20-Header-hygiene.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "API contracts",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/21-API-contracts.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Const-correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/22-Const-correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/23-Refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/24-Characterization-tests.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/25-Naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Public ABI compatibility",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/26-Public-ABI-compatibility.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Technical debt",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/27-Technical-debt.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "MISRA C awareness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/28-MISRA-C-awareness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "CERT C awareness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Safe-C/29-CERT-C-awareness.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated standard APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/02-Hallucinated-standard-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Wrong C standard assumptions",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/03-Wrong-C-standard-assumptions.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Buffer overflow bugs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/04-Buffer-overflow-bugs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Off-by-one errors",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/05-Off-by-one-errors.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Use-after-free",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/06-Use-after-free.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Double free",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/07-Double-free.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Dangling pointers",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/08-Dangling-pointers.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "realloc misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/09-realloc-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Integer overflow",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/10-Integer-overflow.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Signed/unsigned bugs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/11-Signed-unsigned-bugs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Undefined behavior",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/12-Undefined-behavior.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Strict-aliasing violations",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/13-Strict-aliasing-violations.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Incorrect volatile use",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/14-Incorrect-volatile-use.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Atomic-ordering mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/15-Atomic-ordering-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Data races",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/16-Data-races.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unsafe string handling",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/17-Unsafe-string-handling.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Serialization mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/18-Serialization-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated Make/CMake",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/19-Generated-Make-CMake.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/20-Generated-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated benchmarks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/21-Generated-benchmarks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Security review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/22-Security-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Performance claims",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/23-Performance-claims.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/24-Human-approval.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Accept repair reject rubric",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-C-Code-Evaluation/25-Accept-repair-reject-rubric.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test strategy",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/01-Test-strategy.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Unity test framework awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/02-Unity-test-framework-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Check framework awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/03-Check-framework-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "cmocka awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/04-cmocka-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/05-Assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test fixtures awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/06-Test-fixtures-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/07-Fakes.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/08-Stubs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Dependency injection for C",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/09-Dependency-injection-for-C.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/10-Integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "File/network tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/11-File-network-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fuzzing",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/12-Fuzzing.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "libFuzzer awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/13-libFuzzer-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "AFL++ awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/14-AFL-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Sanitizers in CI",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/15-Sanitizers-in-CI.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coverage with gcov awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/16-Coverage-with-gcov-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "lcov awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/17-lcov-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mutation testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/18-Mutation-testing-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Microbenchmark methodology",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/19-Microbenchmark-methodology.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Compiler optimization in benchmarks",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/20-Compiler-optimization-in-benchmarks.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Concurrency test flakiness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Fuzzing-Sanitizers-Benchmarks/21-Concurrency-test-flakiness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SQL from C",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/01-SQL-from-C.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Parameterized queries",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/02-Parameterized-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Prepared statements",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/03-Prepared-statements.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection lifecycle",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/04-Connection-lifecycle.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection pooling awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/05-Connection-pooling-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/06-Transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/07-Isolation-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/08-Locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/09-Optimistic-concurrency.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Result-set ownership",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/10-Result-set-ownership.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SQLite C API awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/11-SQLite-C-API-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "sqlite3_prepare_v2 awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/12-sqlite3-prepare-v2-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "sqlite3_bind awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/13-sqlite3-bind-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "libpq awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/14-libpq-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "PQexecParams awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/15-PQexecParams-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "ODBC C API awareness",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/16-ODBC-C-API-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1 problem",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/17-N-1-problem.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Batch operations",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/18-Batch-operations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Repository/module boundary",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/19-Repository-module-boundary.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Schema migrations",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/20-Schema-migrations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/21-Long-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/22-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Cleanup on DB errors",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/23-Cleanup-on-DB-errors.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Retryable database errors",
+    "file": "M18-Database-Data-Access/Day-21-Database-C-APIs-Transactions-Resource-Ownership/24-Retryable-database-errors.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "C backend/system service use cases",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/01-C-backend-system-service-use-cases.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Socket server model",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/02-Socket-server-model.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Blocking I/O model",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/03-Blocking-I-O-model.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Non-blocking I/O awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/04-Non-blocking-I-O-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "select",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/05-select.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "poll",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/06-poll.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "epoll awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/07-epoll-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "kqueue awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/08-kqueue-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "libevent awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/09-libevent-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "libuv awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/10-libuv-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "HTTP parser/library awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/11-HTTP-parser-library-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "libcurl awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/12-libcurl-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request lifecycle",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/13-Request-lifecycle.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Routing awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/14-Routing-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Handler functions",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/15-Handler-functions.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Context structs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/16-Context-structs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Dependency injection with function tables",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/17-Dependency-injection-with-function-tables.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/18-Configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/19-Runtime-validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Logging",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/20-Logging.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/21-Request-IDs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/22-Graceful-shutdown.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Signal handling awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/23-Signal-handling-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Server timeouts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/24-Server-timeouts.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Health checks",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/25-Health-checks.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Readiness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/26-Readiness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Threading model",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/27-Threading-model.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Event-loop model",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/28-Event-loop-model.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Framework trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-C-Backend-System-API-Engineering/29-Framework-trade-offs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/01-REST-resource-design.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/02-HTTP-methods.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/03-Status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Request validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/04-Request-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/05-Stable-error-contracts.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/06-Authentication.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/07-Authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/08-Object-level-authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JWT library awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/09-JWT-library-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/10-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/11-Pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cursor pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/12-Cursor-pagination-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/13-Idempotency-keys.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/14-Retries-and-side-effects.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/15-OpenAPI-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Protobuf C awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/16-Protobuf-C-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "gRPC C-core awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/17-gRPC-C-core-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "TLS awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/18-TLS-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Binary protocol framing",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/19-Binary-protocol-framing.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Schema evolution",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/20-Schema-evolution.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "API versioning",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/21-API-versioning.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Backward compatibility",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-Binary-Protocol-Contracts/22-Backward-compatibility.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Performance methodology",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/01-Performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/02-Latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/03-Throughput.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "CPU profiling",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/04-CPU-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "perf awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/05-perf-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Cache locality",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/06-Cache-locality.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Cache lines awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/07-Cache-lines-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "False sharing",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/08-False-sharing.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Branch prediction awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/09-Branch-prediction-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Allocation cost",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/10-Allocation-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Heap fragmentation awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/11-Heap-fragmentation-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Memory pools awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/12-Memory-pools-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Arena allocators awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/13-Arena-allocators-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Object pools awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/14-Object-pools-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Copy cost",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/15-Copy-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "memcpy performance awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/16-memcpy-performance-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Data layout",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/17-Data-layout.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Array of structs vs struct of arrays awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/18-Array-of-structs-vs-struct-of-arrays-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Inlining",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/19-Inlining.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "restrict optimization implications",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/20-restrict-optimization-implications.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Vectorization awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/21-Vectorization-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "SIMD awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/22-SIMD-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Compiler optimization levels",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/23-Compiler-optimization-levels.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "LTO awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/24-LTO-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "PGO awareness",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/25-PGO-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Benchmark pitfalls",
+    "file": "M20-Performance-Security/Day-24-C-Performance-Cache-Allocation-Copies-Profiling/26-Benchmark-pitfalls.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Threat modeling",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/01-Threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Buffer overflow",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/02-Buffer-overflow.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Out-of-bounds read/write",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/03-Out-of-bounds-read-write.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Use-after-free",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/04-Use-after-free.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Double free",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/05-Double-free.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Integer overflow",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/06-Integer-overflow.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Integer truncation",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/07-Integer-truncation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Signed/unsigned conversion",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/08-Signed-unsigned-conversion.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Format string vulnerabilities",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/09-Format-string-vulnerabilities.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe printf usage",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/10-Unsafe-printf-usage.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe string functions",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/11-Unsafe-string-functions.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Input validation",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/12-Input-validation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/13-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/14-Command-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/15-Path-traversal.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF awareness",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/16-SSRF-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/17-File-upload-security.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Deserialization risk",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/18-Deserialization-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "TLS verification awareness",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/19-TLS-verification-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secrets management",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/20-Secrets-management.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secure logging",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/21-Secure-logging.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Compiler hardening flags",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/22-Compiler-hardening-flags.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Stack protector",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/23-Stack-protector.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "FORTIFY_SOURCE awareness",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/24-FORTIFY-SOURCE-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "ASLR/DEP awareness",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/25-ASLR-DEP-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Sanitizers",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/26-Sanitizers.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Static analysis",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/27-Static-analysis.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Dependency vulnerabilities",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/28-Dependency-vulnerabilities.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Supply-chain risk",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/29-Supply-chain-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Race conditions as security risk",
+    "file": "M20-Performance-Security/Day-25-C-Security-Memory-Integer-Input-Hardening/30-Race-conditions-as-security-risk.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/01-System-design-method.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/02-Functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Non-functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/03-Non-functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/04-Capacity-estimation.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "When C is appropriate",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/05-When-C-is-appropriate.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Embedded systems awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/06-Embedded-systems-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Systems daemons",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/07-Systems-daemons.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Latency-sensitive design",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/08-Latency-sensitive-design.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Memory-constrained design",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/09-Memory-constrained-design.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Threading model choices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/10-Threading-model-choices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Event loops",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/11-Event-loops.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Async I/O awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/12-Async-I-O-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Load balancing awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/13-Load-balancing-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/14-Caching.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/15-Rate-limiting.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/16-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/17-Queues.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/18-Events.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/19-Messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "ZeroMQ awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/20-ZeroMQ-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "MQTT awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/21-MQTT-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/22-Idempotent-consumers.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Outbox pattern",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/23-Outbox-pattern.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/24-Modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Microservices awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/25-Microservices-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/26-Service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/27-Backpressure.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Observability",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-C-Embedded-System-Services-Messaging/28-Observability.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Deadlines",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/03-Deadlines.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retries",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/04-Retries.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exponential backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/05-Exponential-backoff.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/06-Jitter.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/07-Retry-budgets.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Circuit breaker awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/08-Circuit-breaker-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Bulkhead awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/09-Bulkhead-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/10-Backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/11-Load-shedding.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/12-Idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/13-At-least-once-delivery.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/14-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/15-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/16-Saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/17-Compensation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/18-Event-ordering.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/19-Dead-letter-queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/20-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Distributed tracing awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/21-Distributed-tracing-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "OpenTelemetry C awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/22-OpenTelemetry-C-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/23-Correlation-IDs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/24-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/25-Graceful-degradation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Cancellation propagation awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/26-Cancellation-propagation-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Production compiler flags",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/01-Production-compiler-flags.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Debug symbols",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/02-Debug-symbols.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Release optimization",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/03-Release-optimization.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Sanitizer builds",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/04-Sanitizer-builds.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Static analysis",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/05-Static-analysis.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Warnings as errors",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/06-Warnings-as-errors.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Reproducible builds",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/07-Reproducible-builds.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Make/CMake automation",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/08-Make-CMake-automation.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Cross compilation",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/09-Cross-compilation.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Toolchains",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/10-Toolchains.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Artifact versioning",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/11-Artifact-versioning.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Static linking awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/12-Static-linking-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Dynamic linking",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/13-Dynamic-linking.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "ABI compatibility",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/14-ABI-compatibility.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Containerization",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/15-Containerization.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/16-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Minimal images awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/17-Minimal-images-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Non-root containers",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/18-Non-root-containers.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/19-Kubernetes-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/20-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Graceful shutdown",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/21-Graceful-shutdown.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Signal handling",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/22-Signal-handling.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Rolling deployment awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/23-Rolling-deployment-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Canary awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/24-Canary-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/25-CI-CD.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/26-Logs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/27-Metrics.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Traces awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/28-Traces-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Core dumps",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/29-Core-dumps.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/30-Alerts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/31-Runbooks.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Builds-Cross-Compilation-Containers-CI-CD/32-RPO-RTO.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Legacy C modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/01-Legacy-C-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Unsafe string migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/02-Unsafe-string-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Raw allocation cleanup redesign",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/03-Raw-allocation-cleanup-redesign.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Global state reduction",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/04-Global-state-reduction.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Threading redesign",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/05-Threading-redesign.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Embedded firmware architecture awareness",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/06-Embedded-firmware-architecture-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Protocol parser redesign",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/07-Protocol-parser-redesign.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Memory leak incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/08-Memory-leak-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Use-after-free incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/09-Use-after-free-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Buffer overflow incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/10-Buffer-overflow-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Deadlock incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/11-Deadlock-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Race-condition incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/12-Race-condition-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Compiler upgrade impact",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/13-Compiler-upgrade-impact.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Standard upgrade decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/14-Standard-upgrade-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Build-system modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/15-Build-system-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Library replacement decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/16-Library-replacement-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/17-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Technical debt",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/18-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/19-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Architecture review",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/20-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/21-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Team coding standards",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/22-Team-coding-standards.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Capstone challenge",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-C-Architect-Scenarios-Capstone/23-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Integer conversion questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/02-Integer-conversion-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Pointer questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/03-Pointer-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Array-decay questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/04-Array-decay-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Struct/union questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/05-Struct-union-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Function-pointer questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/06-Function-pointer-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Storage-duration questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/07-Storage-duration-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Allocation/realloc questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/08-Allocation-realloc-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "String questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/09-String-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Undefined-behavior questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/10-Undefined-behavior-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Error-handling questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/11-Error-handling-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Thread/atomic questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/12-Thread-atomic-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/13-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/14-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/15-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/16-System-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/17-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/18-Security-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/19-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/20-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/21-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/22-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/23-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-C-Interview-Readiness/24-Final-readiness-scoring.md"
+  }
+]

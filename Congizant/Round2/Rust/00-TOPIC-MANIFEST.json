@@ -1,0 +1,4598 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Rust language overview",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/01-Rust-language-overview.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "rustup awareness",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/02-rustup-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "rustc",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/03-rustc.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/04-cargo.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo new",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/05-cargo-new.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo run",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/06-cargo-run.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo build",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/07-cargo-build.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo check",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/08-cargo-check.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo fmt",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/09-cargo-fmt.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "cargo clippy awareness",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/10-cargo-clippy-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Crates",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/11-Crates.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Packages",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/12-Packages.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Binary crates",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/13-Binary-crates.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Library crates",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/14-Library-crates.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Variables",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/15-Variables.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "let",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/16-let.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "mut",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/17-mut.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Constants",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/18-Constants.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Shadowing",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/19-Shadowing.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Expressions vs statements",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/20-Expressions-vs-statements.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "if expressions",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/21-if-expressions.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "match awareness",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/22-match-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "loop",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/23-loop.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "while",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/24-while.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "for",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/25-for.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Ranges",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/26-Ranges.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Formatting macros awareness",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/27-Formatting-macros-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Edition awareness",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/28-Edition-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Coding conventions",
+    "file": "M01-Language-Foundations/Day-01-Rust-Ecosystem-Cargo-Core-Syntax/29-Coding-conventions.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Scalar types",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/01-Scalar-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Tuples",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/02-Tuples.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Arrays",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/03-Arrays.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Slices",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/04-Slices.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "str",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/05-str.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "String",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/06-String.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Ownership",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/07-Ownership.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Moves",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/08-Moves.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Copy trait",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/09-Copy-trait.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Clone trait",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/10-Clone-trait.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Borrowing",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/11-Borrowing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Shared references",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/12-Shared-references.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Mutable references",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/13-Mutable-references.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Borrowing rules",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/14-Borrowing-rules.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Dereference operator",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/15-Dereference-operator.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Reference coercions awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/16-Reference-coercions-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Stack vs heap practical model",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/17-Stack-vs-heap-practical-model.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Drop",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/18-Drop.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Scope-based destruction",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/19-Scope-based-destruction.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Partial moves awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/20-Partial-moves-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Never type awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/21-Never-type-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Unit type",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/22-Unit-type.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type inference",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/23-Type-inference.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type aliases",
+    "file": "M02-Language-Model-Type-System/Day-02-Ownership-Borrowing-Moves-Copy-Core-Types/24-Type-aliases.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/01-Functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Parameters",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/02-Parameters.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Return values",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/03-Return-values.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Blocks as expressions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/04-Blocks-as-expressions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Pattern matching",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/05-Pattern-matching.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "match",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/06-match.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "if let",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/07-if-let.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "let else awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/08-let-else-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "while let",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/09-while-let.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Destructuring",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/10-Destructuring.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function pointers",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/11-Function-pointers.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Closures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/12-Closures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Closure capture",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/13-Closure-capture.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Fn",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/14-Fn.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "FnMut",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/15-FnMut.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "FnOnce",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/16-FnOnce.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "move closures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/17-move-closures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Higher-order functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/18-Higher-order-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Iterators",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/19-Iterators.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "IntoIterator",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/20-IntoIterator.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Iterator trait",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/21-Iterator-trait.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "map",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/22-map.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "filter",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/23-filter.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "fold",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/24-fold.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Method syntax",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/25-Method-syntax.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Associated functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/26-Associated-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Recursion",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Patterns-Closures-Iterators/27-Recursion.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Structs",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/01-Structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Tuple structs",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/02-Tuple-structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Unit structs",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/03-Unit-structs.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Enums",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/04-Enums.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Enum variants with data",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/05-Enum-variants-with-data.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Option",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/06-Option.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Result awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/07-Result-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "impl blocks",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/08-impl-blocks.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Methods",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/09-Methods.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Associated functions",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/10-Associated-functions.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "self",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/11-self.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "&self",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/12-self.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "&mut self",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/13-mut-self.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Traits",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/14-Traits.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Trait implementation",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/15-Trait-implementation.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Default trait methods",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/16-Default-trait-methods.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Trait bounds awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/17-Trait-bounds-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Derive macros awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/18-Derive-macros-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/19-Composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Newtype pattern",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/20-Newtype-pattern.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "State modeling with enums",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/21-State-modeling-with-enums.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Dependency injection via traits",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/22-Dependency-injection-via-traits.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Trait objects awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/23-Trait-objects-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "dyn Trait awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Structs-Enums-Traits-Composition/24-dyn-Trait-awareness.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Closures as Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/12-Closures-as-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Enums as State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/13-Enums-as-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator trait vs Iterator pattern",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/14-Iterator-trait-vs-Iterator-pattern.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Channels/events vs Observer awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/15-Channels-events-vs-Observer-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Trait default methods vs Template Method awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/16-Trait-default-methods-vs-Template-Method-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern matching vs Visitor awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/17-Pattern-matching-vs-Visitor-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Rust-Native-Design/18-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Vec<T>",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/01-Vec-T.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Capacity",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/02-Capacity.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "reserve awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/03-reserve-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Indexing vs get",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/04-Indexing-vs-get.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Slices",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/05-Slices.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "HashMap",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/06-HashMap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Entry API awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/07-Entry-API-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "HashSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/08-HashSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "BTreeMap awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/09-BTreeMap-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "BTreeSet awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/10-BTreeSet-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "VecDeque",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/11-VecDeque.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "BinaryHeap",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/12-BinaryHeap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "LinkedList awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/13-LinkedList-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "String",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/14-String.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "&str",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/15-str.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Bytes vs chars",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/16-Bytes-vs-chars.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Unicode scalar values awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/17-Unicode-scalar-values-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Iterator adapters",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/18-Iterator-adapters.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "collect",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/19-collect.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "enumerate",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/20-enumerate.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "zip",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/21-zip.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "flat_map awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/22-flat-map-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "filter_map",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/23-filter-map.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "fold",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/24-fold.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "sort",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/25-sort.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "sort_unstable awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/26-sort-unstable-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Collection complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Strings-Iterators/27-Collection-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Option<T>",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/01-Option-T.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Result<T,E>",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/02-Result-T-E.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "match on Result",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/03-match-on-Result.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "? operator",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/04-operator.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "From/Into error conversion awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/05-From-Into-error-conversion-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom error enums",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/06-Custom-error-enums.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "thiserror awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/07-thiserror-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "anyhow awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/08-anyhow-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error trait",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/09-Error-trait.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Box<dyn Error> awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/10-Box-dyn-Error-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error source chains awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/11-Error-source-chains-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "unwrap",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/12-unwrap.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "expect",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/13-expect.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "panic!",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/14-panic.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Panic vs recoverable errors",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/15-Panic-vs-recoverable-errors.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Assertions",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/16-Assertions.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "debug_assert awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/17-debug-assert-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "panic=unwind awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/18-panic-unwind-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "panic=abort awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/19-panic-abort-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "RAII during unwinding",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/20-RAII-during-unwinding.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Drop during unwinding",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/21-Drop-during-unwinding.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/22-Error-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Option-Result-Panic-Error-Modeling/23-API-error-contracts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Modules",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/01-Modules.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "mod",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/02-mod.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "pub",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/03-pub.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "pub(crate) awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/04-pub-crate-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "use",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/05-use.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Paths",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/06-Paths.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cargo.toml",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/07-Cargo-toml.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/08-Dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dev-dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/09-Dev-dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Build-dependencies awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/10-Build-dependencies-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cargo.lock",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/11-Cargo-lock.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "SemVer awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/12-SemVer-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cargo features",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/13-Cargo-features.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Optional dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/14-Optional-dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Feature unification awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/15-Feature-unification-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Workspaces",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/16-Workspaces.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Workspace dependencies awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/17-Workspace-dependencies-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Profiles",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/18-Profiles.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Release profile awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/19-Release-profile-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "build.rs awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/20-build-rs-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Target triples",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/21-Target-triples.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Cross compilation awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/22-Cross-compilation-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cargo metadata awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/23-cargo-metadata-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cargo tree",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/24-cargo-tree.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cargo update",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/25-cargo-update.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cargo vendor awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/26-cargo-vendor-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "crates.io",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/27-crates-io.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "cargo audit awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Modules-Crates-Cargo-Workspaces-Dependencies/28-cargo-audit-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Zero-cost abstractions concept",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/01-Zero-cost-abstractions-concept.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "No garbage collector",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/02-No-garbage-collector.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Stack vs heap practical model",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/03-Stack-vs-heap-practical-model.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Box<T>",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/04-Box-T.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Heap allocation",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/05-Heap-allocation.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Drop glue awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/06-Drop-glue-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Move semantics runtime meaning",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/07-Move-semantics-runtime-meaning.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Copy semantics runtime meaning",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/08-Copy-semantics-runtime-meaning.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Memory layout awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/09-Memory-layout-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "repr(Rust) awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/10-repr-Rust-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "repr(C) awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/11-repr-C-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Alignment",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/12-Alignment.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Padding",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/13-Padding.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "size_of awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/14-size-of-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Fat pointers awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/15-Fat-pointers-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Slices as fat pointers awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/16-Slices-as-fat-pointers-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Trait object representation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/17-Trait-object-representation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Vtables awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/18-Vtables-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Monomorphization",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/19-Monomorphization.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Static dispatch",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/20-Static-dispatch.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Dynamic dispatch",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/21-Dynamic-dispatch.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Inlining awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/22-Inlining-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Enum layout/niche optimization awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/23-Enum-layout-niche-optimization-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Allocator awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/24-Allocator-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Rc",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/25-Rc.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Arc awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Runtime-Layout-Drop-Dispatch-Allocation/26-Arc-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "std::thread",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/01-std-thread.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "spawn",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/02-spawn.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "JoinHandle",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/03-JoinHandle.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Thread ownership",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/04-Thread-ownership.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "move closures in threads",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/05-move-closures-in-threads.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Send trait",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/06-Send-trait.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Sync trait",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/07-Sync-trait.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Arc<T>",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/08-Arc-T.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Mutex<T>",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/09-Mutex-T.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "RwLock<T> awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/10-RwLock-T-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Poisoning awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/11-Poisoning-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "LockResult awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/12-LockResult-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Deadlock",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/13-Deadlock.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Lock ordering",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/14-Lock-ordering.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Condvar awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/15-Condvar-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Barrier awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/16-Barrier-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "mpsc channels awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/17-mpsc-channels-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "sync_channel awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/18-sync-channel-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Message passing",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/19-Message-passing.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Shared-state concurrency",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/20-Shared-state-concurrency.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "thread::scope awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/21-thread-scope-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Race prevention via type system",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/22-Race-prevention-via-type-system.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Interior mutability awareness",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/23-Interior-mutability-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "RefCell vs Mutex distinction",
+    "file": "M10-Concurrency-Async/Day-11-Threads-Send-Sync-Arc-Mutex-Channels/24-RefCell-vs-Mutex-distinction.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Future trait",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/01-Future-trait.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "async functions",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/02-async-functions.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "async blocks",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/03-async-blocks.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "await",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/04-await.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Lazy futures awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/05-Lazy-futures-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Executor concept",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/06-Executor-concept.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Waker awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/07-Waker-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Poll awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/08-Poll-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Pin awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/09-Pin-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Unpin awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/10-Unpin-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Tokio awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/11-Tokio-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Tokio runtime",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/12-Tokio-runtime.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "tokio::spawn awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/13-tokio-spawn-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "JoinHandle awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/14-JoinHandle-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "select! awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/15-select-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "join! awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/16-join-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Cancellation by drop awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/17-Cancellation-by-drop-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Timeouts",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/18-Timeouts.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Async mutex awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/19-Async-mutex-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Blocking in async code",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/20-Blocking-in-async-code.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "spawn_blocking awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/21-spawn-blocking-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Async channels awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/22-Async-channels-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Bounded channels",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/23-Bounded-channels.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/24-Backpressure.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Task leaks awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/25-Task-leaks-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Structured concurrency awareness",
+    "file": "M10-Concurrency-Async/Day-12-Async-Await-Future-Pin-Tokio-Backpressure/26-Structured-concurrency-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/01-Generic-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic structs",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/02-Generic-structs.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Trait bounds",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/03-Trait-bounds.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "where clauses",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/04-where-clauses.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Associated types",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/05-Associated-types.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic associated types awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/06-Generic-associated-types-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Lifetimes",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/07-Lifetimes.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Lifetime annotations",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/08-Lifetime-annotations.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Lifetime elision",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/09-Lifetime-elision.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Multiple lifetimes",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/10-Multiple-lifetimes.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Lifetime bounds awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/11-Lifetime-bounds-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "'static lifetime awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/12-static-lifetime-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Higher-ranked trait bounds awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/13-Higher-ranked-trait-bounds-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "impl Trait",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/14-impl-Trait.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "dyn Trait",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/15-dyn-Trait.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Trait object safety awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/16-Trait-object-safety-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Associated constants",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/17-Associated-constants.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Const generics",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/18-Const-generics.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "PhantomData awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/19-PhantomData-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Marker traits",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/20-Marker-traits.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Blanket implementations",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/21-Blanket-implementations.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Coherence awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/22-Coherence-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Orphan rule",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/23-Orphan-rule.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Newtype workaround",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/24-Newtype-workaround.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Specialization awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Lifetimes-Associated-Types-Advanced-Rust/25-Specialization-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "std::io::Read",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/01-std-io-Read.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "std::io::Write",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/02-std-io-Write.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "BufRead",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/03-BufRead.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "BufReader",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/04-BufReader.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "BufWriter",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/05-BufWriter.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "File",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/06-File.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Path",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/07-Path.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "PathBuf",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/08-PathBuf.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Streaming I/O",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/09-Streaming-I-O.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Error handling in I/O",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/10-Error-handling-in-I-O.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Serde awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/11-Serde-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Serialize",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/12-Serialize.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Deserialize",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/13-Deserialize.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "serde_json awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/14-serde-json-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Custom serialization awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/15-Custom-serialization-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Borrowed deserialization awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/16-Borrowed-deserialization-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON schema compatibility awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/17-JSON-schema-compatibility-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "reqwest awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/18-reqwest-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "hyper awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/19-hyper-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "HTTP status handling",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/20-HTTP-status-handling.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/21-Timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Retries awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/22-Retries-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "TLS awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/23-TLS-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Streaming responses",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/24-Streaming-responses.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Payload size limits",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/25-Payload-size-limits.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "tokio::net awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/26-tokio-net-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "TCP streams awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/27-TCP-streams-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "WebSocket awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-I-O-Serde-Files-HTTP/28-WebSocket-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Vec in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/03-Vec-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Slices in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/04-Slices-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "String vs &str in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/05-String-vs-str-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Bytes vs chars in algorithms",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/06-Bytes-vs-chars-in-algorithms.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "HashMap for hashing",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/07-HashMap-for-hashing.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "HashSet membership",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/08-HashSet-membership.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/09-Two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/10-Sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Vec as stack",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/11-Vec-as-stack.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "VecDeque as queue",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/12-VecDeque-as-queue.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "BinaryHeap awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/13-BinaryHeap-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/14-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/15-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Borrow checker-friendly algorithm design",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/16-Borrow-checker-friendly-algorithm-design.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Edge cases",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/17-Edge-cases.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Complexity communication",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Vec-Strings-Hashing-Sliding-Window/18-Complexity-communication.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/01-Recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Call stack awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/02-Call-stack-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Tree representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/03-Tree-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Box in recursive types",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/04-Box-in-recursive-types.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Rc/RefCell tree awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/05-Rc-RefCell-tree-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary tree traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/06-Binary-tree-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BST awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/07-BST-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BinaryHeap",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/08-BinaryHeap.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/09-Top-K.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/10-Graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Adjacency lists",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/11-Adjacency-lists.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/12-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/13-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Visited HashSet",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/14-Visited-HashSet.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/15-Cycle-detection.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/16-Topological-sort.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "V and E complexity",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/17-V-and-E-complexity.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/18-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Ownership choices in graphs",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/19-Ownership-choices-in-graphs.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Index-based graph representation awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Trees-Heaps-Graphs-BFS-DFS-Ownership/20-Index-based-graph-representation-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Debugging workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/01-Debugging-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "rust-gdb awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/02-rust-gdb-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "rust-lldb awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/03-rust-lldb-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Backtraces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/04-Backtraces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "RUST_BACKTRACE awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/05-RUST-BACKTRACE-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "dbg! awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/06-dbg-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Clippy",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/07-Clippy.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Compiler diagnostics",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/08-Compiler-diagnostics.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "cargo expand awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/09-cargo-expand-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Miri awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/10-Miri-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Undefined behavior in unsafe code",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/11-Undefined-behavior-in-unsafe-code.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Sanitizers awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/12-Sanitizers-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "AddressSanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/13-AddressSanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "ThreadSanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/14-ThreadSanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "MemorySanitizer awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/15-MemorySanitizer-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Valgrind awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/16-Valgrind-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "perf awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/17-perf-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Flamegraph awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/18-Flamegraph-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "CPU profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/19-CPU-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Heap profiling awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/20-Heap-profiling-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Allocation tracking awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/21-Allocation-tracking-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Tokio console awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/22-Tokio-console-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Deadlock diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/23-Deadlock-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Async task stall diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/24-Async-task-stall-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Database wait diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/25-Database-wait-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Root-cause evidence",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Debugging-Clippy-Miri-Sanitizers-Profiling/26-Root-cause-evidence.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Risk-first code review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/01-Risk-first-code-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/02-Correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Ownership review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/03-Ownership-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Borrowing review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/04-Borrowing-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Lifetime review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/05-Lifetime-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Clone review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/06-Clone-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Allocation review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/07-Allocation-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Result/Option review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/08-Result-Option-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "unwrap review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/09-unwrap-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "panic review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/10-panic-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Trait-object review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/11-Trait-object-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Generic complexity review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/12-Generic-complexity-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Unsafe block review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/13-Unsafe-block-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Soundness review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/14-Soundness-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Send/Sync review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/15-Send-Sync-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Lock review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/16-Lock-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Async cancellation review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/17-Async-cancellation-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Blocking-in-async review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/18-Blocking-in-async-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "API contracts",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/19-API-contracts.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Public API semver awareness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/20-Public-API-semver-awareness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/21-Refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/22-Characterization-tests.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/23-Naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Clippy warnings",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/24-Clippy-warnings.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Needless collect awareness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/25-Needless-collect-awareness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Technical debt",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Rust/26-Technical-debt.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated crates",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/02-Hallucinated-crates.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/03-Hallucinated-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Wrong edition/toolchain assumptions",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/04-Wrong-edition-toolchain-assumptions.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unnecessary clones",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/05-Unnecessary-clones.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Borrow-checker workarounds",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/06-Borrow-checker-workarounds.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Arc<Mutex> overuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/07-Arc-Mutex-overuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Rc across threads",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/08-Rc-across-threads.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Send/Sync mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/09-Send-Sync-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unsafe blocks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/10-Unsafe-blocks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unsound abstractions",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/11-Unsound-abstractions.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Pin misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/12-Pin-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Incorrect async cancellation",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/13-Incorrect-async-cancellation.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Blocking in async",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/14-Blocking-in-async.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Deadlocks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/15-Deadlocks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "SQL injection",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/16-SQL-injection.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Serde mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/17-Serde-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated Cargo.toml",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/18-Generated-Cargo-toml.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/19-Generated-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated benchmarks",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/20-Generated-benchmarks.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Performance claims",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/21-Performance-claims.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Security review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/22-Security-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/23-Human-approval.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Accept repair reject rubric",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Rust-Code-Evaluation/24-Accept-repair-reject-rubric.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "cargo test",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/01-cargo-test.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Unit tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/02-Unit-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/03-Integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Doc tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/04-Doc-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test modules",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/05-Test-modules.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/06-Assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "should_panic awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/07-should-panic-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test Result return awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/08-Test-Result-return-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mocks awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/09-Mocks-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mockall awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/10-Mockall-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/11-Fakes.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/12-Stubs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Async tests awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/13-Async-tests-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "tokio::test awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/14-tokio-test-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Property-based testing",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/15-Property-based-testing.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "proptest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/16-proptest-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "QuickCheck awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/17-QuickCheck-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fuzzing",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/18-Fuzzing.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "cargo-fuzz awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/19-cargo-fuzz-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "libFuzzer awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/20-libFuzzer-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Miri in CI awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/21-Miri-in-CI-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coverage awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/22-Coverage-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Criterion awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/23-Criterion-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Microbenchmark methodology",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/24-Microbenchmark-methodology.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Flaky concurrency tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-Property-Testing-Fuzzing-Benchmarks/25-Flaky-concurrency-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SQL from Rust",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/01-SQL-from-Rust.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Parameterized queries",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/02-Parameterized-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SQLx awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/03-SQLx-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Compile-time checked queries awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/04-Compile-time-checked-queries-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Runtime query awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/05-Runtime-query-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection pools",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/06-Connection-pools.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "sqlx::Pool awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/07-sqlx-Pool-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/08-Transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/09-Isolation-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/10-Locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/11-Optimistic-concurrency.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Diesel awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/12-Diesel-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "SeaORM awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/13-SeaORM-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "ORM trade-offs",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/14-ORM-trade-offs.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1 problem",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/15-N-1-problem.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Batch queries",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/16-Batch-queries.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Projection",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/17-Projection.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Repository boundary",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/18-Repository-boundary.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "DTO vs entity awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/19-DTO-vs-entity-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Migrations",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/20-Migrations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/21-Long-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/22-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Retryable DB errors",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/23-Retryable-DB-errors.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Async DB access",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/24-Async-DB-access.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Blocking DB driver awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQLx-Transactions-Pools-ORM-Awareness/25-Blocking-DB-driver-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Rust backend use cases",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/01-Rust-backend-use-cases.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Axum awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/02-Axum-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Actix Web awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/03-Actix-Web-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Rocket awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/04-Rocket-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Framework trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/05-Framework-trade-offs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "HTTP request lifecycle",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/06-HTTP-request-lifecycle.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Routing",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/07-Routing.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Handlers",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/08-Handlers.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Extractors awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/09-Extractors-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Middleware",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/10-Middleware.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Tower awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/11-Tower-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Service trait awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/12-Service-trait-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Application services",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/13-Application-services.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Repositories",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/14-Repositories.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Dependency injection via state/traits",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/15-Dependency-injection-via-state-traits.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Arc application state awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/16-Arc-application-state-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Configuration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/17-Configuration.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Environment variables",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/18-Environment-variables.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Secrets awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/19-Secrets-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/20-Runtime-validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Serde DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/21-Serde-DTOs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Logging",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/22-Logging.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "tracing crate awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/23-tracing-crate-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/24-Request-IDs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Error responses",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/25-Error-responses.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Health checks",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/26-Health-checks.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Readiness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/27-Readiness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/28-Graceful-shutdown.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Async runtime integration",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Rust-Backend-Architecture-Axum-Actix-Tower-Service-Design/29-Async-runtime-integration.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/01-REST-resource-design.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/02-HTTP-methods.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/03-Status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Serde DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/04-Serde-DTOs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/05-Runtime-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/06-Stable-error-contracts.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/07-Authentication.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/08-Authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/09-Object-level-authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JWT awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/10-JWT-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/11-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/12-Pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cursor pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/13-Cursor-pagination-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/14-Idempotency-keys.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/15-Retries-and-side-effects.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "CORS awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/16-CORS-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/17-OpenAPI-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "utoipa awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/18-utoipa-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "gRPC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/19-gRPC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Tonic awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/20-Tonic-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Protobuf awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/21-Protobuf-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP/2 awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/22-HTTP-2-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "API versioning",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/23-API-versioning.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Backward compatibility",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-Auth-Idempotency-OpenAPI-gRPC/24-Backward-compatibility.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Performance methodology",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/01-Performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/02-Latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/03-Throughput.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Monomorphization cost",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/04-Monomorphization-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Dynamic dispatch cost awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/05-Dynamic-dispatch-cost-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Allocation rate",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/06-Allocation-rate.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Vec reserve",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/07-Vec-reserve.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "String allocation",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/08-String-allocation.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Clone cost",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/09-Clone-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Copy cost",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/10-Copy-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Iterator chains",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/11-Iterator-chains.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Bounds-check elimination awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/12-Bounds-check-elimination-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Inlining",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/13-Inlining.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Enum layout awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/14-Enum-layout-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Cache locality",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/15-Cache-locality.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "False sharing awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/16-False-sharing-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Arc atomic refcount cost",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/17-Arc-atomic-refcount-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Mutex contention",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/18-Mutex-contention.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Async task overhead awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/19-Async-task-overhead-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Tokio scheduler awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/20-Tokio-scheduler-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Database pool waits",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/21-Database-pool-waits.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "HTTP connection reuse awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/22-HTTP-connection-reuse-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Buffer reuse",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/23-Buffer-reuse.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "SmallVec awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/24-SmallVec-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Bytes crate awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/25-Bytes-crate-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Criterion",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/26-Criterion.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "perf/flamegraph awareness",
+    "file": "M20-Performance-Security/Day-24-Rust-Performance-Allocation-Cloning-Dispatch-Cache-Profiling/27-perf-flamegraph-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Threat modeling",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/01-Threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Safe Rust memory-safety guarantees",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/02-Safe-Rust-memory-safety-guarantees.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "What Safe Rust does not guarantee",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/03-What-Safe-Rust-does-not-guarantee.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "unsafe keyword",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/04-unsafe-keyword.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe block boundaries",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/05-Unsafe-block-boundaries.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe functions",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/06-Unsafe-functions.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Raw pointers",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/07-Raw-pointers.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "FFI awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/08-FFI-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "repr(C)",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/09-repr-C.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CString/CStr awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/10-CString-CStr-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Ownership across FFI",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/11-Ownership-across-FFI.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Soundness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/12-Soundness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Data races prevention",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/13-Data-races-prevention.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Logic races awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/14-Logic-races-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/15-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/16-BOLA.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/17-SSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/18-Path-traversal.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/19-Command-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Deserialization risk",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/20-Deserialization-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Serde untagged risk awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/21-Serde-untagged-risk-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/22-File-upload-security.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secrets management",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/23-Secrets-management.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "JWT validation",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/24-JWT-validation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "TLS verification awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/25-TLS-verification-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Dependency vulnerabilities",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/26-Dependency-vulnerabilities.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "cargo audit",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/27-cargo-audit.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Supply-chain risk",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/28-Supply-chain-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Rate limiting awareness",
+    "file": "M20-Performance-Security/Day-25-Rust-Security-Safe-Rust-unsafe-FFI-Web-API-Security/29-Rate-limiting-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/01-System-design-method.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/02-Functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Non-functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/03-Non-functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/04-Capacity-estimation.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "When Rust is appropriate",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/05-When-Rust-is-appropriate.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Stateless Rust services",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/06-Stateless-Rust-services.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/07-Load-balancing.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/08-Caching.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/09-Rate-limiting.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/10-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Replication awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/11-Replication-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Partitioning awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/12-Partitioning-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/13-Queues.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/14-Events.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/15-Messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Kafka client awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/16-Kafka-client-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "NATS awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/17-NATS-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "RabbitMQ awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/18-RabbitMQ-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/19-Idempotent-consumers.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Outbox pattern",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/20-Outbox-pattern.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/21-Modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/22-Microservices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/23-Service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Consistency trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/24-Consistency-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/25-Backpressure.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Observability",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/26-Observability.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Async architecture",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/27-Async-architecture.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Memory efficiency",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Rust-Services-Caching-Messaging-Boundaries/28-Memory-efficiency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retries",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/03-Retries.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exponential backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/04-Exponential-backoff.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/05-Jitter.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/06-Retry-budgets.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Circuit breaker awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/07-Circuit-breaker-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Bulkhead awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/08-Bulkhead-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/09-Backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/10-Load-shedding.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/11-Idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/12-At-least-once-delivery.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/13-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/14-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/15-Saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/16-Compensation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/17-Event-ordering.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/18-Dead-letter-queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/19-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Distributed tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/20-Distributed-tracing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "OpenTelemetry Rust awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/21-OpenTelemetry-Rust-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "tracing spans awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/22-tracing-spans-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/23-Correlation-IDs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/24-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/25-Graceful-degradation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Async cancellation propagation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Sagas-Observability/26-Async-cancellation-propagation.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "cargo build --release",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/01-cargo-build-release.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Cargo profiles",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/02-Cargo-profiles.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "LTO awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/03-LTO-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Codegen units awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/04-Codegen-units-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Panic strategy awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/05-Panic-strategy-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Strip symbols awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/06-Strip-symbols-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Debug symbols awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/07-Debug-symbols-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Reproducible builds awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/08-Reproducible-builds-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Cross compilation",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/09-Cross-compilation.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Target triples",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/10-Target-triples.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "musl awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/11-musl-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Static linking awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/12-Static-linking-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Tests in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/13-Tests-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Clippy in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/14-Clippy-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "rustfmt in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/15-rustfmt-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "cargo audit in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/16-cargo-audit-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Miri in CI awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/17-Miri-in-CI-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/18-Configuration.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/19-Secrets.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/20-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Multi-stage builds",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/21-Multi-stage-builds.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Minimal images awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/22-Minimal-images-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Non-root containers",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/23-Non-root-containers.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/24-Kubernetes-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/25-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Graceful shutdown",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/26-Graceful-shutdown.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Rolling deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/27-Rolling-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Canary",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/28-Canary.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Feature flags",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/29-Feature-flags.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backward-compatible migrations",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/30-Backward-compatible-migrations.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/31-Logs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/32-Metrics.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Traces",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/33-Traces.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/34-Alerts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/35-Runbooks.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Cargo-Release-Containers-Kubernetes-CI-CD/36-RPO-RTO.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "C/C++ to Rust migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/01-C-C-to-Rust-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Incremental Rust adoption",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/02-Incremental-Rust-adoption.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "FFI migration boundary",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/03-FFI-migration-boundary.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Legacy service modernization",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/04-Legacy-service-modernization.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Ownership-model redesign",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/05-Ownership-model-redesign.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Sync to async migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/06-Sync-to-async-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Tokio adoption decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/07-Tokio-adoption-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Unsafe code elimination",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/08-Unsafe-code-elimination.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Memory incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/09-Memory-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Deadlock incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/10-Deadlock-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Async task leak incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/11-Async-task-leak-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Database bottleneck",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/12-Database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Latency incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/13-Latency-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Compiler upgrade impact",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/14-Compiler-upgrade-impact.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Edition migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/15-Edition-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Crate replacement decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/16-Crate-replacement-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/17-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Supply-chain incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/18-Supply-chain-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Technical debt",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/19-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/20-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Architecture review",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/21-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/22-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Team coding standards",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/23-Team-coding-standards.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Capstone challenge",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Rust-Architect-Scenarios-Capstone/24-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Ownership questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/02-Ownership-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Borrowing questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/03-Borrowing-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Lifetime questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/04-Lifetime-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Copy/Clone questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/05-Copy-Clone-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Trait questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/06-Trait-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Enum/Option/Result questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/07-Enum-Option-Result-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Iterator questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/08-Iterator-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Error-handling questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/09-Error-handling-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Cargo questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/10-Cargo-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Runtime/layout questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/11-Runtime-layout-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Send/Sync questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/12-Send-Sync-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Arc/Mutex questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/13-Arc-Mutex-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Async/Future/Pin questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/14-Async-Future-Pin-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/15-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/16-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/17-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Backend/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/18-Backend-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/19-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security/unsafe challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/20-Security-unsafe-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/21-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/22-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/23-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/24-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/25-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Rust-Interview-Readiness/26-Final-readiness-scoring.md"
+  }
+]

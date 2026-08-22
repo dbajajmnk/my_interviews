@@ -1,0 +1,3818 @@
+[
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Kotlin language overview",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/01-Kotlin-language-overview.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Kotlin/JVM",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/02-Kotlin-JVM.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Kotlin/Native awareness",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/03-Kotlin-Native-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Kotlin/JS awareness",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/04-Kotlin-JS-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Kotlin Multiplatform awareness",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/05-Kotlin-Multiplatform-awareness.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "val vs var",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/06-val-vs-var.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Type inference basics",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/07-Type-inference-basics.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Expressions vs statements",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/08-Expressions-vs-statements.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "if expression",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/09-if-expression.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "when expression",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/10-when-expression.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Ranges",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/11-Ranges.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Loops",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/12-Loops.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "String templates",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/13-String-templates.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Packages and imports",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/14-Packages-and-imports.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Top-level declarations",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/15-Top-level-declarations.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Coding conventions",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/16-Coding-conventions.md"
+  },
+  {
+    "day": 1,
+    "module": 1,
+    "topic": "Java interoperability awareness",
+    "file": "M01-Language-Foundations/Day-01-Kotlin-Ecosystem-Syntax-JVM-Native-JS-Awareness-Core-Execution/17-Java-interoperability-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Static typing",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/01-Static-typing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type inference",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/02-Type-inference.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Nullable types",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/03-Nullable-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Non-null types",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/04-Non-null-types.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Safe-call operator",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/05-Safe-call-operator.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Elvis operator",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/06-Elvis-operator.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Not-null assertion",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/07-Not-null-assertion.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Safe cast",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/08-Safe-cast.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Smart casts",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/09-Smart-casts.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "is checks",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/10-is-checks.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Any",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/11-Any.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Any?",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/12-Any.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Nothing",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/13-Nothing.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Unit",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/14-Unit.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Equality == vs ===",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/15-Equality-vs.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Data equality",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/16-Data-equality.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Referential equality",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/17-Referential-equality.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Platform types awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/18-Platform-types-awareness.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Type aliases",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/19-Type-aliases.md"
+  },
+  {
+    "day": 2,
+    "module": 2,
+    "topic": "Star projections awareness",
+    "file": "M02-Language-Model-Type-System/Day-02-Kotlin-Type-System-Null-Safety-Smart-Casts-Value-Semantics/20-Star-projections-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Top-level functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/01-Top-level-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Member functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/02-Member-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Local functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/03-Local-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Default arguments",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/04-Default-arguments.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Named arguments",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/05-Named-arguments.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Vararg",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/06-Vararg.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/07-Function-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Lambdas",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/08-Lambdas.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Trailing lambdas",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/09-Trailing-lambdas.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Higher-order functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/10-Higher-order-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Function references",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/11-Function-references.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Closures",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/12-Closures.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Extension functions",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/13-Extension-functions.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Receiver types",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/14-Receiver-types.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "let",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/15-let.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "run",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/16-run.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "with",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/17-with.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "apply",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/18-apply.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "also",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/19-also.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Inline lambda awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/20-Inline-lambda-awareness.md"
+  },
+  {
+    "day": 3,
+    "module": 3,
+    "topic": "Non-local returns awareness",
+    "file": "M03-Functions-Scope-Core-Constructs/Day-03-Functions-Lambdas-Higher-Order-Functions-Extensions-Scope-Functions/21-Non-local-returns-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/01-Classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Primary constructors",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/02-Primary-constructors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Secondary constructors",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/03-Secondary-constructors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "init blocks",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/04-init-blocks.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Properties",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/05-Properties.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Custom accessors",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/06-Custom-accessors.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Visibility modifiers",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/07-Visibility-modifiers.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "open",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/08-open.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "final by default",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/09-final-by-default.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "abstract",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/10-abstract.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/11-Interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/12-Inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Method overriding",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/13-Method-overriding.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Composition over inheritance",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/14-Composition-over-inheritance.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Data classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/15-Data-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "copy semantics awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/16-copy-semantics-awareness.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Enum classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/17-Enum-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Sealed classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/18-Sealed-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Sealed interfaces",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/19-Sealed-interfaces.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Object declarations",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/20-Object-declarations.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Companion objects",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/21-Companion-objects.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Nested classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/22-Nested-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Inner classes",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/23-Inner-classes.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Delegation by keyword",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/24-Delegation-by-keyword.md"
+  },
+  {
+    "day": 4,
+    "module": 4,
+    "topic": "Property delegation awareness",
+    "file": "M04-OOP-Design-Model/Day-04-Classes-Data-Classes-Sealed-Hierarchies-Interfaces-Delegation/25-Property-delegation-awareness.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Single Responsibility Principle (SRP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/01-Single-Responsibility-Principle-SRP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Open/Closed Principle (OCP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/02-Open-Closed-Principle-OCP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Liskov Substitution Principle (LSP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/03-Liskov-Substitution-Principle-LSP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Interface Segregation Principle (ISP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/04-Interface-Segregation-Principle-ISP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency Inversion Principle (DIP)",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/05-Dependency-Inversion-Principle-DIP.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "DRY",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/06-DRY.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "KIS",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/07-KIS.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "YAGNI",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/08-YAGNI.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Cohesion and coupling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/09-Cohesion-and-coupling.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Dependency inversion",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/10-Dependency-inversion.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composition",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/11-Composition.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Factory Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/12-Factory-Method.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Abstract Factory",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/13-Abstract-Factory.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Builder",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/14-Builder.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Prototype",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/15-Prototype.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Singleton",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/16-Singleton.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Adapter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/17-Adapter.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Bridge",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/18-Bridge.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Composite",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/19-Composite.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/20-Decorator.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Facade",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/21-Facade.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Flyweight",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/22-Flyweight.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Proxy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/23-Proxy.md"
+  },
+  {
+    "day": 5,
+    "module": 5,
+    "topic": "Pattern trade-off defense",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-05-SOLID-DRY-KIS-YAGNI-GoF-Creational-Structural-Patterns-in-Kotlin/24-Pattern-trade-off-defense.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Chain of Responsibility",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/01-Chain-of-Responsibility.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Command",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/02-Command.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Interpreter",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/03-Interpreter.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Iterator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/04-Iterator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Mediator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/05-Mediator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Memento",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/06-Memento.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Observer",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/07-Observer.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "State",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/08-State.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/09-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Template Method",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/10-Template-Method.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Visitor",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/11-Visitor.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Function types as Strategy",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/12-Function-types-as-Strategy.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Sealed classes as State modeling",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/13-Sealed-classes-as-State-modeling.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Flow/events vs Observer awareness",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/14-Flow-events-vs-Observer-awareness.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Delegation vs Decorator",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/15-Delegation-vs-Decorator.md"
+  },
+  {
+    "day": 6,
+    "module": 5,
+    "topic": "Pattern combinations",
+    "file": "M05-Design-Principles-Gang-of-Four-Patterns/Day-06-GoF-Behavioral-Patterns-Kotlin-Native-Pattern-Design/16-Pattern-combinations.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "List",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/01-List.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "MutableList",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/02-MutableList.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Set",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/03-Set.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "MutableSet",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/04-MutableSet.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Map",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/05-Map.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "MutableMap",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/06-MutableMap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Array",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/07-Array.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "IntArray awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/08-IntArray-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "ArrayDeque awareness",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/09-ArrayDeque-awareness.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Ranges",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/10-Ranges.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Progressions",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/11-Progressions.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "filter",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/12-filter.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "flatMap",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/13-flatMap.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "fold",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/14-fold.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "reduce",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/15-reduce.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "groupBy",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/16-groupBy.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "associateBy",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/17-associateBy.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "sortedBy",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/18-sortedBy.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "distinct",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/19-distinct.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "zip",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/20-zip.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Sequence",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/21-Sequence.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Lazy vs eager evaluation",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/22-Lazy-vs-eager-evaluation.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "asSequence",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/23-asSequence.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Read-only vs immutable distinction",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/24-Read-only-vs-immutable-distinction.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Destructuring",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/25-Destructuring.md"
+  },
+  {
+    "day": 7,
+    "module": 6,
+    "topic": "Collection complexity",
+    "file": "M06-Collections-Standard-Library/Day-07-Collections-Sequences-Ranges-Standard-Library-Mastery/26-Collection-complexity.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Throwable hierarchy awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/01-Throwable-hierarchy-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Exception",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/02-Exception.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "RuntimeException",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/03-RuntimeException.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Checked exceptions absent in Kotlin",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/04-Checked-exceptions-absent-in-Kotlin.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "throw expression",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/05-throw-expression.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "try as expression",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/06-try-as-expression.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "catch",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/07-catch.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "finally",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/08-finally.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Custom exceptions",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/09-Custom-exceptions.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Exception cause",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/10-Exception-cause.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Result type",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/11-Result-type.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "runCatching",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/12-runCatching.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "getOrElse",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/13-getOrElse.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "getOrThrow",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/14-getOrThrow.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "fold on Result",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/15-fold-on-Result.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Exception vs sealed result trade-offs",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/16-Exception-vs-sealed-result-trade-offs.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "use function",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/17-use-function.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Resource cleanup",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/18-Resource-cleanup.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Coroutine exception awareness",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/19-Coroutine-exception-awareness.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Error translation",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/20-Error-translation.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "API error contracts",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/21-API-error-contracts.md"
+  },
+  {
+    "day": 8,
+    "module": 7,
+    "topic": "Retryable vs non-retryable",
+    "file": "M07-Error-Exception-Handling/Day-08-Exceptions-Result-Resource-Safety-Failure-Modeling/22-Retryable-vs-non-retryable.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Packages",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/01-Packages.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Imports",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/02-Imports.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "File-level declarations",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/03-File-level-declarations.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Internal visibility",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/04-Internal-visibility.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Gradle Kotlin DSL awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/05-Gradle-Kotlin-DSL-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "build.gradle.kts",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/06-build-gradle-kts.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Plugins",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/07-Plugins.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependencies",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/08-Dependencies.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "implementation vs api awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/09-implementation-vs-api-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "testImplementation awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/10-testImplementation-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Version catalogs awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/11-Version-catalogs-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Dependency resolution",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/12-Dependency-resolution.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Multi-module projects",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/13-Multi-module-projects.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Source sets awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/14-Source-sets-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Kotlin JVM target",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/15-Kotlin-JVM-target.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Java toolchain awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/16-Java-toolchain-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "JAR packaging",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/17-JAR-packaging.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "Java interoperability",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/18-Java-interoperability.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "SAM conversion",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/19-SAM-conversion.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "@JvmStatic awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/20-JvmStatic-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "@JvmOverloads awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/21-JvmOverloads-awareness.md"
+  },
+  {
+    "day": 9,
+    "module": 8,
+    "topic": "@JvmName awareness",
+    "file": "M08-Modules-Packages-Build-Dependency-Management/Day-09-Packages-Gradle-Dependencies-Modules-Java-Interop/22-JvmName-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Kotlin to JVM bytecode",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/01-Kotlin-to-JVM-bytecode.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Decompilation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/02-Decompilation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Top-level function compilation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/03-Top-level-function-compilation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Companion/object compilation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/04-Companion-object-compilation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Data class generated members",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/05-Data-class-generated-members.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Default argument bytecode awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/06-Default-argument-bytecode-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "JVM stack and heap",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/07-JVM-stack-and-heap.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Garbage collection",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/08-Garbage-collection.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Object allocation",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/09-Object-allocation.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Boxing and unboxing awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/10-Boxing-and-unboxing-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Nullable primitive boxing awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/11-Nullable-primitive-boxing-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Inline functions and allocation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/12-Inline-functions-and-allocation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Lambda allocation awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/13-Lambda-allocation-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "JIT awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/14-JIT-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Class loading awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/15-Class-loading-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Reflection cost awareness",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/16-Reflection-cost-awareness.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Reified type parameters runtime behavior",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/17-Reified-type-parameters-runtime-behavior.md"
+  },
+  {
+    "day": 10,
+    "module": 9,
+    "topic": "Language guarantee vs JVM implementation",
+    "file": "M09-Runtime-Memory-Internals/Day-10-Kotlin-JVM-Runtime-Bytecode-Memory-Boxing-Compiler-Internals-Awareness/18-Language-guarantee-vs-JVM-implementation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Coroutine concept",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/01-Coroutine-concept.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "suspend functions",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/02-suspend-functions.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Continuation awareness",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/03-Continuation-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "CoroutineScope",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/04-CoroutineScope.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "CoroutineContext",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/05-CoroutineContext.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Job",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/06-Job.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "launch",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/07-launch.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "async",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/08-async.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "runBlocking awareness",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/09-runBlocking-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "withContext",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/10-withContext.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Dispatchers.Default",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/11-Dispatchers-Default.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Dispatchers.IO",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/12-Dispatchers-IO.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Main dispatcher awareness",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/13-Main-dispatcher-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Structured concurrency",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/14-Structured-concurrency.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Parent-child hierarchy",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/15-Parent-child-hierarchy.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Cancellation",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/16-Cancellation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Cooperative cancellation",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/17-Cooperative-cancellation.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "ensureActive",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/18-ensureActive.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "yield",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/19-yield.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "SupervisorJob awareness",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/20-SupervisorJob-awareness.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "supervisorScope",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/21-supervisorScope.md"
+  },
+  {
+    "day": 11,
+    "module": 10,
+    "topic": "Coroutine exception propagation",
+    "file": "M10-Concurrency-Async/Day-11-Coroutines-Foundations-suspend-Scope-Dispatchers-Structured-Concurrency/22-Coroutine-exception-propagation.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Flow",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/01-Flow.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Cold flow",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/02-Cold-flow.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "flow builder",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/03-flow-builder.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "collect",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/04-collect.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Flow operators",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/05-Flow-operators.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "map",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/06-map.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "filter",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/07-filter.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "flowOn",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/08-flowOn.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "buffer",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/09-buffer.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "conflate",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/10-conflate.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "collectLatest",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/11-collectLatest.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "StateFlow",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/12-StateFlow.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "SharedFlow",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/13-SharedFlow.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Hot vs cold streams",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/14-Hot-vs-cold-streams.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Channel awareness",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/15-Channel-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Producer-consumer patterns",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/16-Producer-consumer-patterns.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Backpressure concepts",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/17-Backpressure-concepts.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Mutex",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/18-Mutex.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Semaphore",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/19-Semaphore.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Atomic operations awareness",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/20-Atomic-operations-awareness.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Thread confinement",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/21-Thread-confinement.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Shared mutable state",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/22-Shared-mutable-state.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Race conditions",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/23-Race-conditions.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Blocking calls inside coroutines",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/24-Blocking-calls-inside-coroutines.md"
+  },
+  {
+    "day": 12,
+    "module": 10,
+    "topic": "Coroutine dispatcher choice",
+    "file": "M10-Concurrency-Async/Day-12-Flow-Channels-Backpressure-Concurrency-Safety/25-Coroutine-dispatcher-choice.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic classes",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/01-Generic-classes.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Generic functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/02-Generic-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type parameter constraints",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/03-Type-parameter-constraints.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "where clauses",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/04-where-clauses.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Declaration-site variance",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/05-Declaration-site-variance.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "out",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/06-out.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "in",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/07-in.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Use-site projections",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/08-Use-site-projections.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Star projections",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/09-Star-projections.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Type erasure on JVM",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/10-Type-erasure-on-JVM.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Inline functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/11-Inline-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "noinline",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/12-noinline.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "crossinline",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/13-crossinline.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Reified type parameters",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/14-Reified-type-parameters.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Contracts awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/15-Contracts-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Delegated properties",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/16-Delegated-properties.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "lazy",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/17-lazy.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "observable awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/18-observable-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Operator overloading",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/19-Operator-overloading.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Infix functions",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/20-Infix-functions.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "DSL design awareness",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/21-DSL-design-awareness.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Value classes",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/22-Value-classes.md"
+  },
+  {
+    "day": 13,
+    "module": 11,
+    "topic": "Sealed exhaustive when",
+    "file": "M11-Modern-Advanced-Features/Day-13-Generics-Variance-Inline-Reified-Advanced-Kotlin/23-Sealed-exhaustive-when.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "kotlinx.serialization awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/01-kotlinx-serialization-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Serializable annotation awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/02-Serializable-annotation-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "JSON encoding/decoding",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/03-JSON-encoding-decoding.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Schema compatibility awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/04-Schema-compatibility-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Unknown fields awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/05-Unknown-fields-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Custom serializers awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/06-Custom-serializers-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Java serialization risk awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/07-Java-serialization-risk-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "File I/O",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/08-File-I-O.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Path/File awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/09-Path-File-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "useLines awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/10-useLines-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Buffered I/O",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/11-Buffered-I-O.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Charsets",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/12-Charsets.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Ktor client awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/13-Ktor-client-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Java HttpClient interop awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/14-Java-HttpClient-interop-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "HTTP status handling",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/15-HTTP-status-handling.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Timeouts",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/16-Timeouts.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Retries awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/17-Retries-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Cancellation with HTTP calls",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/18-Cancellation-with-HTTP-calls.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Streaming responses awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/19-Streaming-responses-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "WebSocket awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/20-WebSocket-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "SSE awareness",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/21-SSE-awareness.md"
+  },
+  {
+    "day": 14,
+    "module": 12,
+    "topic": "Payload size limits",
+    "file": "M12-I-O-Serialization-Networking/Day-14-Serialization-Files-HTTP-Clients-JSON-Networking/22-Payload-size-limits.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Google problem-solving flow",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/01-Google-problem-solving-flow.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Big-O",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/02-Big-O.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "IntArray vs Array<Int> awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/03-IntArray-vs-Array-Int-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Arrays",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/04-Arrays.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Strings",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/05-Strings.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "HashMap",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/06-HashMap.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "HashSet",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/07-HashSet.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Two pointers",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/08-Two-pointers.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Sliding window",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/09-Sliding-window.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Stack",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/10-Stack.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "ArrayDeque as stack/queue",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/11-ArrayDeque-as-stack-queue.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Prefix sums awareness",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/12-Prefix-sums-awareness.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Brute force to optimization",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/13-Brute-force-to-optimization.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Edge cases",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/14-Edge-cases.md"
+  },
+  {
+    "day": 15,
+    "module": 13,
+    "topic": "Complexity communication",
+    "file": "M13-Coding-DSA/Day-15-DSA-I-Arrays-Strings-Hashing-Two-Pointers-Sliding-Window-Stacks/15-Complexity-communication.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Recursion",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/01-Recursion.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Call stack depth",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/02-Call-stack-depth.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Binary trees",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/03-Binary-trees.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Tree traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/04-Tree-traversal.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BST awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/05-BST-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "PriorityQueue/heap awareness",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/06-PriorityQueue-heap-awareness.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Top-K",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/07-Top-K.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Graph representation",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/08-Graph-representation.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "BFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/09-BFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "DFS",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/10-DFS.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Visited set",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/11-Visited-set.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Cycle detection",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/12-Cycle-detection.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Topological sort",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/13-Topological-sort.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "V and E complexity",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/14-V-and-E-complexity.md"
+  },
+  {
+    "day": 16,
+    "module": 13,
+    "topic": "Iterative vs recursive traversal",
+    "file": "M13-Coding-DSA/Day-16-DSA-II-Recursion-Trees-Heaps-Graphs-BFS-DFS-Dependency-Problems/15-Iterative-vs-recursive-traversal.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Debugging workflow",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/01-Debugging-workflow.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "IDE debugger awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/02-IDE-debugger-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Breakpoints",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/03-Breakpoints.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Coroutine debugger awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/04-Coroutine-debugger-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Stack traces",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/05-Stack-traces.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Thread dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/06-Thread-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Heap dumps",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/07-Heap-dumps.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "JFR awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/08-JFR-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "JMC awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/09-JMC-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "CPU profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/10-CPU-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Allocation profiling",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/11-Allocation-profiling.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "GC logs awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/12-GC-logs-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Coroutine dumps awareness",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/13-Coroutine-dumps-awareness.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Deadlock diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/14-Deadlock-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Suspension vs blocking diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/15-Suspension-vs-blocking-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Database wait diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/16-Database-wait-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Network tracing",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/17-Network-tracing.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "One-pod anomaly diagnosis",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/18-One-pod-anomaly-diagnosis.md"
+  },
+  {
+    "day": 17,
+    "module": 14,
+    "topic": "Root-cause evidence",
+    "file": "M14-Debugging-Troubleshooting/Day-17-Kotlin-JVM-Debugging-Coroutines-Diagnostics-Memory-CPU-Troubleshooting/19-Root-cause-evidence.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Risk-first code review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/01-Risk-first-code-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/02-Correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Null-safety review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/03-Null-safety-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Coroutine correctness",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/04-Coroutine-correctness.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Shared-state review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/05-Shared-state-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Mutation review",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/06-Mutation-review.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "API contracts",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/07-API-contracts.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Code smells",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/08-Code-smells.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "God objects",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/09-God-objects.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Overuse of scope functions",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/10-Overuse-of-scope-functions.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Extension abuse",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/11-Extension-abuse.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Inheritance abuse",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/12-Inheritance-abuse.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "runCatching abuse",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/13-runCatching-abuse.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Refactoring",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/14-Refactoring.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Characterization tests",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/15-Characterization-tests.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Naming",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/16-Naming.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Module boundaries",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/17-Module-boundaries.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Dependency direction",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/18-Dependency-direction.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Backward compatibility",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/19-Backward-compatibility.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Technical debt prioritization",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/20-Technical-debt-prioritization.md"
+  },
+  {
+    "day": 18,
+    "module": 15,
+    "topic": "Java-like Kotlin smell",
+    "file": "M15-Code-Review-Refactoring-Mastery/Day-18-Code-Review-Refactoring-Idiomatic-Kotlin/21-Java-like-Kotlin-smell.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "AI code as untrusted proposal",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/01-AI-code-as-untrusted-proposal.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated APIs",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/02-Hallucinated-APIs.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Hallucinated Gradle dependencies",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/03-Hallucinated-Gradle-dependencies.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Wrong coroutine context",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/04-Wrong-coroutine-context.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "GlobalScope misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/05-GlobalScope-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Unsafe !!",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/06-Unsafe.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Platform type misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/07-Platform-type-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Blocking in coroutines",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/08-Blocking-in-coroutines.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Flow misuse",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/09-Flow-misuse.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Sealed hierarchy mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/10-Sealed-hierarchy-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Java interop mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/11-Java-interop-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Serialization mistakes",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/12-Serialization-mistakes.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Security review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/13-Security-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated tests",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/14-Generated-tests.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Generated SQL",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/15-Generated-SQL.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Performance review",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/16-Performance-review.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Human approval",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/17-Human-approval.md"
+  },
+  {
+    "day": 19,
+    "module": 16,
+    "topic": "Accept repair reject rubric",
+    "file": "M16-AI-Generated-Code-Evaluation/Day-19-AI-Generated-Kotlin-Code-Evaluation-Safe-Engineering-Use/18-Accept-repair-reject-rubric.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "kotlin.test awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/01-kotlin-test-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "JUnit 5",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/02-JUnit-5.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Assertions",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/03-Assertions.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Parameterized tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/04-Parameterized-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Test fixtures",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/05-Test-fixtures.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mocks",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/06-Mocks.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Fakes",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/07-Fakes.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Stubs",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/08-Stubs.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "MockK awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/09-MockK-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mockito-Kotlin awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/10-Mockito-Kotlin-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coroutine testing",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/11-Coroutine-testing.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "runTest awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/12-runTest-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Virtual time awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/13-Virtual-time-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Flow testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/14-Flow-testing-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Integration tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/15-Integration-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Database tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/16-Database-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "HTTP/API tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/17-HTTP-API-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Contract tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/18-Contract-tests.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Testcontainers awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/19-Testcontainers-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Coverage limitations",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/20-Coverage-limitations.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Mutation testing awareness",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/21-Mutation-testing-awareness.md"
+  },
+  {
+    "day": 20,
+    "module": 17,
+    "topic": "Flaky tests",
+    "file": "M17-Testing-Quality-Engineering/Day-20-Testing-JUnit-Kotlin-Test-Mocking-Coroutines-Integration-Testing/22-Flaky-tests.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "JDBC from Kotlin",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/01-JDBC-from-Kotlin.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Prepared statements",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/02-Prepared-statements.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Connection pools",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/03-Connection-pools.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/04-Transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Isolation awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/05-Isolation-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Locking",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/06-Locking.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Optimistic concurrency",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/07-Optimistic-concurrency.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "JPA awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/08-JPA-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Hibernate awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/09-Hibernate-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Kotlin JPA pitfalls",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/10-Kotlin-JPA-pitfalls.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "No-arg constructor awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/11-No-arg-constructor-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Open class/proxy issue awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/12-Open-class-proxy-issue-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Lazy loading",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/13-Lazy-loading.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Eager loading",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/14-Eager-loading.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "N+1",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/15-N-1.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Fetch strategies",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/16-Fetch-strategies.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Repository boundary",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/17-Repository-boundary.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Nullable DB columns",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/18-Nullable-DB-columns.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Value classes in persistence awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/19-Value-classes-in-persistence-awareness.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Schema migrations",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/20-Schema-migrations.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Long transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/21-Long-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Remote calls inside transactions",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/22-Remote-calls-inside-transactions.md"
+  },
+  {
+    "day": 21,
+    "module": 18,
+    "topic": "Exposed/jOOQ awareness",
+    "file": "M18-Database-Data-Access/Day-21-SQL-JDBC-Transactions-JPA-Hibernate-Kotlin-Data-Access/23-Exposed-jOOQ-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Spring Boot with Kotlin awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/01-Spring-Boot-with-Kotlin-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Ktor awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/02-Ktor-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Spring vs Ktor trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/03-Spring-vs-Ktor-trade-offs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Controllers/routes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/04-Controllers-routes.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Services",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/05-Services.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Repositories",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/06-Repositories.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Dependency injection",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/07-Dependency-injection.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Constructor injection",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/08-Constructor-injection.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Configuration properties awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/09-Configuration-properties-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/10-DTOs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/11-Runtime-validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Bean validation awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/12-Bean-validation-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Kotlin nullability and validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/13-Kotlin-nullability-and-validation.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Logging",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/14-Logging.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Request IDs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/15-Request-IDs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Interceptors/filters awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/16-Interceptors-filters-awareness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Health/readiness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/17-Health-readiness.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Graceful shutdown",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/18-Graceful-shutdown.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Framework trade-offs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/19-Framework-trade-offs.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Java library interoperability",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/20-Java-library-interoperability.md"
+  },
+  {
+    "day": 22,
+    "module": 19,
+    "topic": "Coroutines in backend frameworks",
+    "file": "M19-Backend-Framework-API-Engineering/Day-22-Kotlin-Backend-Architecture-Spring-Boot-Ktor-Awareness-DI-Service-Design/21-Coroutines-in-backend-frameworks.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "REST resource design",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/01-REST-resource-design.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "HTTP methods",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/02-HTTP-methods.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Status codes",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/03-Status-codes.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "DTOs",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/04-DTOs.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Runtime validation",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/05-Runtime-validation.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Stable error contracts",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/06-Stable-error-contracts.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authentication",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/07-Authentication.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/08-Authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Object-level authorization",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/09-Object-level-authorization.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "JWT awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/10-JWT-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OAuth2/OIDC awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/11-OAuth2-OIDC-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Pagination",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/12-Pagination.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cursor pagination awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/13-Cursor-pagination-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Idempotency keys",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/14-Idempotency-keys.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Retries and side effects",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/15-Retries-and-side-effects.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "CORS",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/16-CORS.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Cookies vs bearer tokens",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/17-Cookies-vs-bearer-tokens.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "OpenAPI awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/18-OpenAPI-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Generated clients awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/19-Generated-clients-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "GraphQL awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/20-GraphQL-awareness.md"
+  },
+  {
+    "day": 23,
+    "module": 19,
+    "topic": "Android/backend integration awareness",
+    "file": "M19-Backend-Framework-API-Engineering/Day-23-REST-APIs-Auth-Idempotency-Pagination-Full-Stack-Integration/21-Android-backend-integration-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Performance methodology",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/01-Performance-methodology.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Latency percentiles",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/02-Latency-percentiles.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Throughput",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/03-Throughput.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Allocation rate",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/04-Allocation-rate.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Boxing cost",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/05-Boxing-cost.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Sequence trade-offs",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/06-Sequence-trade-offs.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Inline function trade-offs",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/07-Inline-function-trade-offs.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Coroutine overhead awareness",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/08-Coroutine-overhead-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Dispatcher saturation",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/09-Dispatcher-saturation.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Thread pool saturation",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/10-Thread-pool-saturation.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Blocking I/O",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/11-Blocking-I-O.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Database pool waits",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/12-Database-pool-waits.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "N+1",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/13-N-1.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Caching",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/14-Caching.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Memoization trade-offs",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/15-Memoization-trade-offs.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "JFR profiling",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/16-JFR-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "CPU profiling",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/17-CPU-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Allocation profiling",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/18-Allocation-profiling.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "GC pressure",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/19-GC-pressure.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Benchmarking awareness",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/20-Benchmarking-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "JMH awareness",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/21-JMH-awareness.md"
+  },
+  {
+    "day": 24,
+    "module": 20,
+    "topic": "Warmup/JIT effects",
+    "file": "M20-Performance-Security/Day-24-Kotlin-JVM-Performance-Allocation-Coroutines-Collections-DB-Profiling/22-Warmup-JIT-effects.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Threat modeling",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/01-Threat-modeling.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Authentication vs authorization",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/02-Authentication-vs-authorization.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "BOLA",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/03-BOLA.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SQL injection",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/04-SQL-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "XSS awareness",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/05-XSS-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CSRF awareness",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/06-CSRF-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "CORS",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/07-CORS.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "SSRF",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/08-SSRF.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Mass assignment",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/09-Mass-assignment.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "File upload security",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/10-File-upload-security.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Path traversal",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/11-Path-traversal.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Command injection",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/12-Command-injection.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secrets management",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/13-Secrets-management.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Secure logging",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/14-Secure-logging.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Unsafe Java serialization",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/15-Unsafe-Java-serialization.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Deserialization risk",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/16-Deserialization-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Dependency vulnerabilities",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/17-Dependency-vulnerabilities.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Gradle supply-chain risk",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/18-Gradle-supply-chain-risk.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "JWT validation awareness",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/19-JWT-validation-awareness.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Input validation",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/20-Input-validation.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Output encoding",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/21-Output-encoding.md"
+  },
+  {
+    "day": 25,
+    "module": 20,
+    "topic": "Rate limiting awareness",
+    "file": "M20-Performance-Security/Day-25-Security-Kotlin-JVM-Web-API-Serialization-Supply-Chain/22-Rate-limiting-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "System-design method",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/01-System-design-method.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/02-Functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Non-functional requirements",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/03-Non-functional-requirements.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Capacity estimation",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/04-Capacity-estimation.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Stateless Kotlin services",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/05-Stateless-Kotlin-services.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Load balancing",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/06-Load-balancing.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Caching",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/07-Caching.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Rate limiting",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/08-Rate-limiting.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "SQL vs NoSQL trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/09-SQL-vs-NoSQL-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Replication awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/10-Replication-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Partitioning awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/11-Partitioning-awareness.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/12-Queues.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Events",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/13-Events.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Messaging",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/14-Messaging.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Idempotent consumers",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/15-Idempotent-consumers.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Outbox pattern",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/16-Outbox-pattern.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Modular monolith",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/17-Modular-monolith.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Microservices",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/18-Microservices.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Service boundaries",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/19-Service-boundaries.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Consistency trade-offs",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/20-Consistency-trade-offs.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Coroutine use in distributed systems",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/21-Coroutine-use-in-distributed-systems.md"
+  },
+  {
+    "day": 26,
+    "module": 21,
+    "topic": "Observability",
+    "file": "M21-Architecture-Distributed-Systems/Day-26-System-Design-with-Kotlin-JVM-Scalability-Caching-Messaging-Service-Boundaries/22-Observability.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Partial failure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/01-Partial-failure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Timeouts",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/02-Timeouts.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/03-Retry.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exponential backoff",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/04-Exponential-backoff.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Jitter",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/05-Jitter.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Retry budgets",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/06-Retry-budgets.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Circuit breaker",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/07-Circuit-breaker.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Bulkhead",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/08-Bulkhead.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Backpressure",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/09-Backpressure.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Load shedding",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/10-Load-shedding.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Idempotency",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/11-Idempotency.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "At-least-once delivery",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/12-At-least-once-delivery.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Exactly-once myth awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/13-Exactly-once-myth-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Outbox",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/14-Outbox.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Saga",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/15-Saga.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Compensation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/16-Compensation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Event ordering",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/17-Event-ordering.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Dead-letter queues",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/18-Dead-letter-queues.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Schema versioning",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/19-Schema-versioning.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Distributed tracing",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/20-Distributed-tracing.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Correlation IDs",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/21-Correlation-IDs.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "CAP awareness",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/22-CAP-awareness.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Graceful degradation",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/23-Graceful-degradation.md"
+  },
+  {
+    "day": 27,
+    "module": 21,
+    "topic": "Coroutine cancellation across calls",
+    "file": "M21-Architecture-Distributed-Systems/Day-27-Distributed-Systems-Timeouts-Retries-Circuit-Breakers-Sagas-Observability/24-Coroutine-cancellation-across-calls.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kotlin build pipeline",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/01-Kotlin-build-pipeline.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Gradle build",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/02-Gradle-build.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Tests in CI",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/03-Tests-in-CI.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Static analysis awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/04-Static-analysis-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "ktlint awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/05-ktlint-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Detekt awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/06-Detekt-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "JVM runtime configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/07-JVM-runtime-configuration.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Environment configuration",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/08-Environment-configuration.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Secrets",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/09-Secrets.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Docker",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/10-Docker.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Container memory awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/11-Container-memory-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Kubernetes awareness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/12-Kubernetes-awareness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Readiness vs liveness",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/13-Readiness-vs-liveness.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Rolling deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/14-Rolling-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Canary deployment",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/15-Canary-deployment.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Feature flags",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/16-Feature-flags.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backward-compatible migrations",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/17-Backward-compatible-migrations.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "CI/CD",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/18-CI-CD.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Immutable artifacts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/19-Immutable-artifacts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Logs",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/20-Logs.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Metrics",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/21-Metrics.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Traces",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/22-Traces.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "SLI/SLO/SLA",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/23-SLI-SLO-SLA.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Alerts",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/24-Alerts.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Runbooks",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/25-Runbooks.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "RPO/RTO",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/26-RPO-RTO.md"
+  },
+  {
+    "day": 28,
+    "module": 22,
+    "topic": "Backup restore",
+    "file": "M22-Production-Engineering-Deployment/Day-28-Production-Engineering-Kotlin-Builds-JVM-Runtime-Docker-Kubernetes-CI-CD/27-Backup-restore.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Java-to-Kotlin migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/01-Java-to-Kotlin-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Mixed Java/Kotlin codebase",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/02-Mixed-Java-Kotlin-codebase.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Nullability migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/03-Nullability-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Coroutine adoption strategy",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/04-Coroutine-adoption-strategy.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Legacy thread model migration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/05-Legacy-thread-model-migration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Spring Java to Kotlin migration awareness",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/06-Spring-Java-to-Kotlin-migration-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Ktor adoption decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/07-Ktor-adoption-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Android/backend shared model caution",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/08-Android-backend-shared-model-caution.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Multiplatform decision awareness",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/09-Multiplatform-decision-awareness.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Performance incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/10-Performance-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Security incident",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/11-Security-incident.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Database bottleneck",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/12-Database-bottleneck.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Memory leak",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/13-Memory-leak.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Coroutine leak",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/14-Coroutine-leak.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Framework migration decision",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/15-Framework-migration-decision.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Technical debt",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/16-Technical-debt.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Client trade-offs",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/17-Client-trade-offs.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Architecture review",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/18-Architecture-review.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "AI integration",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/19-AI-integration.md"
+  },
+  {
+    "day": 29,
+    "module": 23,
+    "topic": "Capstone challenge",
+    "file": "M23-Senior-Engineering-Scenarios-Capstone-Challenge/Day-29-Senior-Kotlin-Architect-Scenarios-Capstone-Challenge/20-Capstone-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Rapid recall",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/01-Rapid-recall.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Null-safety questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/02-Null-safety-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Extension/scope-function questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/03-Extension-scope-function-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Data/sealed class questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/04-Data-sealed-class-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Variance questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/05-Variance-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Reified questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/06-Reified-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coroutine questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/07-Coroutine-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Flow questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/08-Flow-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "JVM runtime questions",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/09-JVM-runtime-questions.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Coding challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/10-Coding-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Debugging challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/11-Debugging-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Code review challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/12-Code-review-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Backend/API challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/13-Backend-API-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Database challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/14-Database-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Security challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/15-Security-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "System-design challenge",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/16-System-design-challenge.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Architect follow-ups",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/17-Architect-follow-ups.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Communication",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/18-Communication.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Evidence First",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/19-Evidence-First.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "No Bluff",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/20-No-Bluff.md"
+  },
+  {
+    "day": 30,
+    "module": 24,
+    "topic": "Final readiness scoring",
+    "file": "M24-Interview-Practical-Assessment-Final-Readiness/Day-30-Final-Kotlin-Interview-Readiness-Runtime-Coroutines-Coding-Review-API-Design/21-Final-readiness-scoring.md"
+  }
+]
