@@ -1,11 +1,5 @@
 # iRun Corporate Training Interview Preparation
 ## Module 04 — Java & Spring Boot Application Operations
-
-**Interview Target:** iRun Application / Production Operations Training  
-**Module Type:** Corporate Training Interview Preparation  
-**Priority:** P0 — Must Be Strong Before Interview  
-**Primary Goal:** Demonstrate strong Java/Spring Boot production operations knowledge, practical troubleshooting capability, and the ability to teach application behavior through realistic enterprise scenarios.
-
 ---
 
 # 1. Module Objective
