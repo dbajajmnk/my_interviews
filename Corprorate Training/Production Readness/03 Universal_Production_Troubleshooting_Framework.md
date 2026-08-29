@@ -1,11 +1,5 @@
 # iRun Corporate Training Interview Preparation
 ## Module 03 — Universal Production Troubleshooting Framework
-
-**Interview Target:** iRun Application / Production Operations Training  
-**Module Type:** Corporate Training Interview Preparation  
-**Priority:** P0 — Must Be Strong Before Interview  
-**Primary Goal:** Build one reusable, evidence-driven troubleshooting method that can be applied across technologies, scenarios, and trainer demonstrations.
-
 ---
 
 # 1. Module Objective
