@@ -1,13 +1,3 @@
-# iRun Corporate Training Interview Preparation
-## Module 05 — JVM Runtime & Advanced Diagnostics
-
-**Interview Target:** iRun Application / Production Operations Training  
-**Module Type:** Corporate Training Interview Preparation  
-**Priority:** P0 — Must Be Strong Before Interview  
-**Primary Goal:** Demonstrate strong JVM production-diagnostics capability and the ability to teach memory, GC, threads, CPU, dumps, and runtime incidents through evidence-driven scenarios.
-
----
-
 # 1. Module Objective
 
 By the end of this module, you should be able to:
