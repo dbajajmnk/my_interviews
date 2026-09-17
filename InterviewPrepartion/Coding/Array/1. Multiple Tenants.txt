@@ -1,0 +1,61 @@
+1. Multiple Tenants 
+2. 10 Banks 
+3. Account 
+	Payment
+	Notification
+3. 1 Million Transition
+4. Finance Domain
+5. Cloud 
+6. Full fledge Application
+7. Data Structure
+	Flexible : NoSQL
+
+// My Assumptions
+1. Budget wise we don't have any constraints 
+2. Idempotency matter 
+3. I am not thinking performance and other things 
+
+
+KIS
+DRY
+S- Single Responsibility
+O- Open Close 
+L- Lis
+I- ISP
+D- 
+Scalability, Reliability in mind 
+
+
+Azure Services List
+1. ADF
+2. ETL
+3. ETL
+4. Batching(Queue)
+5. Live Streaming (Kafka)
+6. Distrusted
+7. Event Driven A
+
+Eventually 
+
+Security 
+
+Java Version
+21 
+17 Already
+
+Deployment 
+Canary
+
+Guardrail
+Hasullation 
+
+Microservices Patterns all the Patterns
+Saga
+CQRS
+Outbox 
+AWS
+	Update my knowledge with AWS as well
+
+Micro front end 
+React Js/Angular/Vue
+Au

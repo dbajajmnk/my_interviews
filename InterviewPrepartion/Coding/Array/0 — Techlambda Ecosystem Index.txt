@@ -1,0 +1,26 @@
+0 — Techlambda Ecosystem Index
+1 — Ecosystem Master Charter
+2 — Ecosystem Project Register
+3 — Business Process Architecture
+4 — Brand, Marketing & Demand Generation
+5 — Service Catalog, Pricing & Commercial Rules
+6 — Sales, CRM & Revenue Operations
+7 — Partner, Vendor & Procurement Management
+8 — Corporate Training, 150+ Expert Network & 30/70 Model
+9 — Career Services, CIP & 1-to-1 Operations
+10 — Internal Operations & HR Management
+11 — Finance, Accounting & Commercial Management
+12 — Document & Knowledge Management
+13 — Google Workspace & Collaboration
+14 — Cursor Engineering Workspace & Development Standards
+15 — Application Architecture
+16 — Data Architecture
+17 — AI, RAG & Automation Architecture
+18 — Integrations & External Systems
+19 — Security, Reliability & Observability
+20 — DevOps, Infrastructure & Release Management
+21 — Delivery, QA & Customer Success
+22 — Legal, Compliance & Risk Management
+23 — Analytics, BI & Management Reporting
+24 — Delivery Roadmap
+25 — Daily Ecosystem Command Center
